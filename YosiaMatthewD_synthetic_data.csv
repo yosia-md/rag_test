@@ -1,0 +1,1001 @@
+device_id,model,battery_level,battery_status,cleaning_mode,noise_level,suction_power,navigation_type,carpet_detection,dust_container_status
+V001,RoboSweep X200,78,>75%,Standar,55,2500,LiDAR + vSLAM,Ada,75%
+V002,RoboSweep X150,52,50-75%,Maksimal,65,2000,Giroskop,Tidak Ada,30%
+V003,RoboSweep X200,81,>75%,Karpet,68,2500,LiDAR + vSLAM,Ada,55%
+V004,RoboSweep X150,23,<25% - Segera Isi Daya,Senyap,50,2000,Giroskop,Tidak Ada,90%
+V005,RoboSweep X200,62,50-75%,Standar,55,2500,LiDAR + vSLAM,Ada,45%
+V006,RoboSweep X150,29,25-50%,Maksimal,65,2000,Giroskop,Tidak Ada,85%
+V007,RoboSweep X200,18,<25% - Segera Isi Daya,Karpet,68,2500,LiDAR + vSLAM,Ada,25%
+V008,RoboSweep X150,93,>75%,Senyap,50,2000,Giroskop,Tidak Ada,60%
+V009,RoboSweep X200,44,25-50%,Standar,55,2500,LiDAR + vSLAM,Ada,15%
+V010,RoboSweep X150,58,50-75%,Maksimal,65,2000,Giroskop,Tidak Ada,70%
+V011,RoboSweep X200,87,>75%,Karpet,68,2500,LiDAR + vSLAM,Ada,40%
+V012,RoboSweep X150,32,25-50%,Senyap,50,2000,Giroskop,Tidak Ada,80%
+V013,RoboSweep X200,69,50-75%,Standar,55,2500,LiDAR + vSLAM,Ada,35%
+V014,RoboSweep X150,15,<25% - Segera Isi Daya,Maksimal,65,2000,Giroskop,Tidak Ada,65%
+V015,RoboSweep X200,76,>75%,Karpet,68,2500,LiDAR + vSLAM,Ada,20%
+V016,RoboSweep X150,41,25-50%,Senyap,50,2000,Giroskop,Tidak Ada,95%
+V017,RoboSweep X200,83,>75%,Standar,55,2500,LiDAR + vSLAM,Ada,50%
+V018,RoboSweep X150,27,25-50%,Maksimal,65,2000,Giroskop,Tidak Ada,10%
+V019,RoboSweep X200,64,50-75%,Karpet,68,2500,LiDAR + vSLAM,Ada,75%
+V020,RoboSweep X150,12,<25% - Segera Isi Daya,Senyap,50,2000,Giroskop,Tidak Ada,30%
+V021,RoboSweep X200,94,>75%,Standar,55,2500,LiDAR + vSLAM,Ada,55%
+V022,RoboSweep X150,35,25-50%,Maksimal,65,2000,Giroskop,Tidak Ada,90%
+V023,RoboSweep X200,72,50-75%,Karpet,68,2500,LiDAR + vSLAM,Ada,45%
+V024,RoboSweep X150,19,<25% - Segera Isi Daya,Senyap,50,2000,Giroskop,Tidak Ada,85%
+V025,RoboSweep X200,89,>75%,Standar,55,2500,LiDAR + vSLAM,Ada,25%
+V026,RoboSweep X150,48,25-50%,Maksimal,65,2000,Giroskop,Tidak Ada,60%
+V027,RoboSweep X200,67,50-75%,Karpet,68,2500,LiDAR + vSLAM,Ada,15%
+V028,RoboSweep X150,21,<25% - Segera Isi Daya,Senyap,50,2000,Giroskop,Tidak Ada,70%
+V029,RoboSweep X200,91,>75%,Standar,55,2500,LiDAR + vSLAM,Ada,40%
+V030,RoboSweep X150,53,50-75%,Maksimal,65,2000,Giroskop,Tidak Ada,80%
+V031,RoboSweep X200,37,25-50%,Karpet,68,2500,LiDAR + vSLAM,Ada,35%
+V032,RoboSweep X150,86,>75%,Senyap,50,2000,Giroskop,Tidak Ada,65%
+V033,RoboSweep X200,25,25-50%,Standar,55,2500,LiDAR + vSLAM,Ada,20%
+V034,RoboSweep X150,61,50-75%,Maksimal,65,2000,Giroskop,Tidak Ada,95%
+V035,RoboSweep X200,14,<25% - Segera Isi Daya,Karpet,68,2500,LiDAR + vSLAM,Ada,50%
+V036,RoboSweep X150,84,>75%,Senyap,50,2000,Giroskop,Tidak Ada,10%
+V037,RoboSweep X200,44,25-50%,Standar,55,2500,LiDAR + vSLAM,Ada,75%
+V038,RoboSweep X150,73,50-75%,Maksimal,65,2000,Giroskop,Tidak Ada,30%
+V039,RoboSweep X200,17,<25% - Segera Isi Daya,Karpet,68,2500,LiDAR + vSLAM,Ada,55%
+V040,RoboSweep X150,92,>75%,Senyap,50,2000,Giroskop,Tidak Ada,90%
+V041,RoboSweep X200,57,50-75%,Standar,55,2500,LiDAR + vSLAM,Ada,45%
+V042,RoboSweep X150,31,25-50%,Maksimal,65,2000,Giroskop,Tidak Ada,85%
+V043,RoboSweep X200,11,<25% - Segera Isi Daya,Karpet,68,2500,LiDAR + vSLAM,Ada,25%
+V044,RoboSweep X150,79,>75%,Senyap,50,2000,Giroskop,Tidak Ada,60%
+V045,RoboSweep X200,47,25-50%,Standar,55,2500,LiDAR + vSLAM,Ada,15%
+V046,RoboSweep X150,65,50-75%,Maksimal,65,2000,Giroskop,Tidak Ada,70%
+V047,RoboSweep X200,22,<25% - Segera Isi Daya,Karpet,68,2500,LiDAR + vSLAM,Ada,40%
+V048,RoboSweep X150,88,>75%,Senyap,50,2000,Giroskop,Tidak Ada,80%
+V049,RoboSweep X200,54,50-75%,Standar,55,2500,LiDAR + vSLAM,Ada,35%
+V050,RoboSweep X150,28,25-50%,Maksimal,65,2000,Giroskop,Tidak Ada,65%
+V051,RoboSweep X200,96,>75%,Karpet,68,2500,LiDAR + vSLAM,Ada,20%
+V052,RoboSweep X150,13,<25% - Segera Isi Daya,Senyap,50,2000,Giroskop,Tidak Ada,95%
+V053,RoboSweep X200,77,>75%,Standar,55,2500,LiDAR + vSLAM,Ada,50%
+V054,RoboSweep X150,42,25-50%,Maksimal,65,2000,Giroskop,Tidak Ada,10%
+V055,RoboSweep X200,68,50-75%,Karpet,68,2500,LiDAR + vSLAM,Ada,75%
+V056,RoboSweep X150,16,<25% - Segera Isi Daya,Senyap,50,2000,Giroskop,Tidak Ada,30%
+V057,RoboSweep X200,95,>75%,Standar,55,2500,LiDAR + vSLAM,Ada,55%
+V058,RoboSweep X150,36,25-50%,Maksimal,65,2000,Giroskop,Tidak Ada,90%
+V059,RoboSweep X200,71,50-75%,Karpet,68,2500,LiDAR + vSLAM,Ada,45%
+V060,RoboSweep X150,20,<25% - Segera Isi Daya,Senyap,50,2000,Giroskop,Tidak Ada,85%
+V061,RoboSweep X200,90,>75%,Standar,55,2500,LiDAR + vSLAM,Ada,25%
+V062,RoboSweep X150,49,25-50%,Maksimal,65,2000,Giroskop,Tidak Ada,60%
+V063,RoboSweep X200,66,50-75%,Karpet,68,2500,LiDAR + vSLAM,Ada,15%
+V064,RoboSweep X150,22,<25% - Segera Isi Daya,Senyap,50,2000,Giroskop,Tidak Ada,70%
+V065,RoboSweep X200,82,>75%,Standar,55,2500,LiDAR + vSLAM,Ada,40%
+V066,RoboSweep X150,55,50-75%,Maksimal,65,2000,Giroskop,Tidak Ada,80%
+V067,RoboSweep X200,38,25-50%,Karpet,68,2500,LiDAR + vSLAM,Ada,35%
+V068,RoboSweep X150,87,>75%,Senyap,50,2000,Giroskop,Tidak Ada,65%
+V069,RoboSweep X200,26,25-50%,Standar,55,2500,LiDAR + vSLAM,Ada,20%
+V070,RoboSweep X150,62,50-75%,Maksimal,65,2000,Giroskop,Tidak Ada,95%
+V071,RoboSweep X200,15,<25% - Segera Isi Daya,Karpet,68,2500,LiDAR + vSLAM,Ada,50%
+V072,RoboSweep X150,85,>75%,Senyap,50,2000,Giroskop,Tidak Ada,10%
+V073,RoboSweep X200,45,25-50%,Standar,55,2500,LiDAR + vSLAM,Ada,75%
+V074,RoboSweep X150,74,50-75%,Maksimal,65,2000,Giroskop,Tidak Ada,30%
+V075,RoboSweep X200,18,<25% - Segera Isi Daya,Karpet,68,2500,LiDAR + vSLAM,Ada,55%
+V076,RoboSweep X150,93,>75%,Senyap,50,2000,Giroskop,Tidak Ada,90%
+V077,RoboSweep X200,58,50-75%,Standar,55,2500,LiDAR + vSLAM,Ada,45%
+V078,RoboSweep X150,32,25-50%,Maksimal,65,2000,Giroskop,Tidak Ada,85%
+V079,RoboSweep X200,12,<25% - Segera Isi Daya,Karpet,68,2500,LiDAR + vSLAM,Ada,25%
+V080,RoboSweep X150,80,>75%,Senyap,50,2000,Giroskop,Tidak Ada,60%
+V081,RoboSweep X200,48,25-50%,Standar,55,2500,LiDAR + vSLAM,Ada,15%
+V082,RoboSweep X150,66,50-75%,Maksimal,65,2000,Giroskop,Tidak Ada,70%
+V083,RoboSweep X200,23,<25% - Segera Isi Daya,Karpet,68,2500,LiDAR + vSLAM,Ada,40%
+V084,RoboSweep X150,89,>75%,Senyap,50,2000,Giroskop,Tidak Ada,80%
+V085,RoboSweep X200,55,50-75%,Standar,55,2500,LiDAR + vSLAM,Ada,35%
+V086,RoboSweep X150,29,25-50%,Maksimal,65,2000,Giroskop,Tidak Ada,65%
+V087,RoboSweep X200,97,>75%,Karpet,68,2500,LiDAR + vSLAM,Ada,20%
+V088,RoboSweep X150,14,<25% - Segera Isi Daya,Senyap,50,2000,Giroskop,Tidak Ada,95%
+V089,RoboSweep X200,78,>75%,Standar,55,2500,LiDAR + vSLAM,Ada,50%
+V090,RoboSweep X150,43,25-50%,Maksimal,65,2000,Giroskop,Tidak Ada,10%
+V091,RoboSweep X200,69,50-75%,Karpet,68,2500,LiDAR + vSLAM,Ada,75%
+V092,RoboSweep X150,17,<25% - Segera Isi Daya,Senyap,50,2000,Giroskop,Tidak Ada,30%
+V093,RoboSweep X200,96,>75%,Standar,55,2500,LiDAR + vSLAM,Ada,55%
+V094,RoboSweep X150,37,25-50%,Maksimal,65,2000,Giroskop,Tidak Ada,90%
+V095,RoboSweep X200,72,50-75%,Karpet,68,2500,LiDAR + vSLAM,Ada,45%
+V096,RoboSweep X150,21,<25% - Segera Isi Daya,Senyap,50,2000,Giroskop,Tidak Ada,85%
+V097,RoboSweep X200,91,>75%,Standar,55,2500,LiDAR + vSLAM,Ada,25%
+V098,RoboSweep X150,50,25-50%,Maksimal,65,2000,Giroskop,Tidak Ada,60%
+V099,RoboSweep X200,67,50-75%,Karpet,68,2500,LiDAR + vSLAM,Ada,15%
+V100,RoboSweep X150,23,<25% - Segera Isi Daya,Senyap,50,2000,Giroskop,Tidak Ada,70%
+V1000,RoboSweep X200,15,<25% - Segera Isi Daya,Maksimal,55,2000,LiDAR + vSLAM,Ada,35%
+V101,RoboSweep X200,83,>75%,Standar,55,2500,LiDAR + vSLAM,Ada,40%
+V102,RoboSweep X150,56,50-75%,Maksimal,65,2000,Giroskop,Tidak Ada,80%
+V103,RoboSweep X200,39,25-50%,Karpet,68,2500,LiDAR + vSLAM,Ada,35%
+V104,RoboSweep X150,88,>75%,Senyap,50,2000,Giroskop,Tidak Ada,65%
+V105,RoboSweep X200,27,25-50%,Standar,55,2500,LiDAR + vSLAM,Ada,20%
+V106,RoboSweep X150,63,50-75%,Maksimal,65,2000,Giroskop,Tidak Ada,95%
+V107,RoboSweep X200,16,<25% - Segera Isi Daya,Karpet,68,2500,LiDAR + vSLAM,Ada,50%
+V108,RoboSweep X150,86,>75%,Senyap,50,2000,Giroskop,Tidak Ada,10%
+V109,RoboSweep X200,46,25-50%,Standar,55,2500,LiDAR + vSLAM,Ada,75%
+V110,RoboSweep X150,75,50-75%,Maksimal,65,2000,Giroskop,Tidak Ada,30%
+V111,RoboSweep X200,19,<25% - Segera Isi Daya,Karpet,68,2500,LiDAR + vSLAM,Ada,55%
+V112,RoboSweep X150,94,>75%,Senyap,50,2000,Giroskop,Tidak Ada,90%
+V113,RoboSweep X200,59,50-75%,Standar,55,2500,LiDAR + vSLAM,Ada,45%
+V114,RoboSweep X150,33,25-50%,Maksimal,65,2000,Giroskop,Tidak Ada,85%
+V115,RoboSweep X200,13,<25% - Segera Isi Daya,Karpet,68,2500,LiDAR + vSLAM,Ada,25%
+V116,RoboSweep X150,81,>75%,Senyap,50,2000,Giroskop,Tidak Ada,60%
+V117,RoboSweep X200,49,25-50%,Standar,55,2500,LiDAR + vSLAM,Ada,15%
+V118,RoboSweep X150,67,50-75%,Maksimal,65,2000,Giroskop,Tidak Ada,70%
+V119,RoboSweep X200,24,<25% - Segera Isi Daya,Karpet,68,2500,LiDAR + vSLAM,Ada,40%
+V120,RoboSweep X150,90,>75%,Senyap,50,2000,Giroskop,Tidak Ada,80%
+V121,RoboSweep X200,56,50-75%,Standar,55,2500,LiDAR + vSLAM,Ada,35%
+V122,RoboSweep X150,30,25-50%,Maksimal,65,2000,Giroskop,Tidak Ada,65%
+V123,RoboSweep X200,98,>75%,Karpet,68,2500,LiDAR + vSLAM,Ada,20%
+V124,RoboSweep X150,15,<25% - Segera Isi Daya,Senyap,50,2000,Giroskop,Tidak Ada,95%
+V125,RoboSweep X200,79,>75%,Standar,55,2500,LiDAR + vSLAM,Ada,50%
+V126,RoboSweep X150,56,25-50%,Standar,65,2500,LiDAR + vSLAM,Ada,75%
+V127,RoboSweep X150,93,>75%,Maksimal,68,2000,LiDAR + vSLAM,Ada,55%
+V128,RoboSweep X200,78,<25% - Segera Isi Daya,Maksimal,50,2500,LiDAR + vSLAM,Ada,45%
+V129,RoboSweep X200,90,<25% - Segera Isi Daya,Karpet,65,2000,Giroskop,Ada,15%
+V130,RoboSweep X200,12,50-75%,Maksimal,55,2500,LiDAR + vSLAM,Ada,25%
+V131,RoboSweep X150,84,>75%,Karpet,65,2000,Giroskop,Tidak Ada,25%
+V132,RoboSweep X150,33,25-50%,Karpet,55,2500,LiDAR + vSLAM,Tidak Ada,15%
+V133,RoboSweep X150,62,50-75%,Maksimal,50,2000,LiDAR + vSLAM,Tidak Ada,40%
+V134,RoboSweep X200,77,25-50%,Senyap,50,2000,LiDAR + vSLAM,Ada,35%
+V135,RoboSweep X200,69,25-50%,Karpet,65,2000,LiDAR + vSLAM,Ada,45%
+V136,RoboSweep X200,68,25-50%,Standar,65,2500,Giroskop,Ada,100%
+V137,RoboSweep X150,44,<25% - Segera Isi Daya,Maksimal,65,2000,LiDAR + vSLAM,Tidak Ada,90%
+V138,RoboSweep X150,48,>75%,Karpet,65,2000,Giroskop,Tidak Ada,40%
+V139,RoboSweep X150,18,>75%,Standar,68,2500,LiDAR + vSLAM,Tidak Ada,70%
+V140,RoboSweep X200,54,50-75%,Maksimal,50,2500,Giroskop,Tidak Ada,10%
+V141,RoboSweep X150,66,50-75%,Standar,65,2500,LiDAR + vSLAM,Tidak Ada,20%
+V142,RoboSweep X200,17,50-75%,Standar,55,2000,LiDAR + vSLAM,Tidak Ada,20%
+V143,RoboSweep X150,11,50-75%,Maksimal,68,2500,Giroskop,Tidak Ada,80%
+V144,RoboSweep X150,64,>75%,Senyap,50,2500,LiDAR + vSLAM,Ada,40%
+V145,RoboSweep X200,98,50-75%,Standar,68,2500,LiDAR + vSLAM,Tidak Ada,15%
+V146,RoboSweep X200,44,>75%,Standar,68,2500,LiDAR + vSLAM,Tidak Ada,60%
+V147,RoboSweep X200,22,<25% - Segera Isi Daya,Karpet,50,2500,Giroskop,Ada,30%
+V148,RoboSweep X200,95,25-50%,Karpet,65,2500,LiDAR + vSLAM,Tidak Ada,100%
+V149,RoboSweep X150,76,<25% - Segera Isi Daya,Maksimal,55,2000,Giroskop,Ada,40%
+V150,RoboSweep X200,41,>75%,Maksimal,65,2500,Giroskop,Tidak Ada,80%
+V151,RoboSweep X200,98,<25% - Segera Isi Daya,Standar,50,2000,LiDAR + vSLAM,Tidak Ada,45%
+V152,RoboSweep X200,56,<25% - Segera Isi Daya,Maksimal,50,2500,LiDAR + vSLAM,Tidak Ada,30%
+V153,RoboSweep X150,86,>75%,Karpet,50,2000,LiDAR + vSLAM,Ada,15%
+V154,RoboSweep X150,11,>75%,Senyap,50,2500,LiDAR + vSLAM,Tidak Ada,50%
+V155,RoboSweep X200,49,<25% - Segera Isi Daya,Senyap,55,2500,LiDAR + vSLAM,Tidak Ada,55%
+V156,RoboSweep X150,33,25-50%,Standar,68,2000,Giroskop,Tidak Ada,95%
+V157,RoboSweep X200,22,>75%,Maksimal,50,2500,LiDAR + vSLAM,Ada,45%
+V158,RoboSweep X150,96,25-50%,Karpet,55,2500,Giroskop,Tidak Ada,100%
+V159,RoboSweep X200,61,<25% - Segera Isi Daya,Karpet,55,2500,LiDAR + vSLAM,Ada,85%
+V160,RoboSweep X200,88,25-50%,Maksimal,55,2500,LiDAR + vSLAM,Tidak Ada,60%
+V161,RoboSweep X150,88,50-75%,Maksimal,50,2500,Giroskop,Tidak Ada,15%
+V162,RoboSweep X150,46,50-75%,Maksimal,55,2500,LiDAR + vSLAM,Tidak Ada,25%
+V163,RoboSweep X150,88,<25% - Segera Isi Daya,Standar,55,2000,LiDAR + vSLAM,Tidak Ada,35%
+V164,RoboSweep X150,15,50-75%,Karpet,50,2500,LiDAR + vSLAM,Ada,100%
+V165,RoboSweep X150,98,50-75%,Senyap,68,2000,LiDAR + vSLAM,Tidak Ada,80%
+V166,RoboSweep X200,53,25-50%,Senyap,68,2500,LiDAR + vSLAM,Ada,65%
+V167,RoboSweep X200,38,>75%,Senyap,50,2500,LiDAR + vSLAM,Ada,100%
+V168,RoboSweep X150,39,>75%,Maksimal,50,2500,LiDAR + vSLAM,Ada,55%
+V169,RoboSweep X200,55,50-75%,Standar,65,2500,LiDAR + vSLAM,Tidak Ada,35%
+V170,RoboSweep X200,74,>75%,Karpet,65,2000,Giroskop,Ada,100%
+V171,RoboSweep X200,72,<25% - Segera Isi Daya,Maksimal,55,2000,Giroskop,Ada,75%
+V172,RoboSweep X200,58,25-50%,Standar,55,2500,Giroskop,Tidak Ada,40%
+V173,RoboSweep X150,68,25-50%,Standar,55,2000,Giroskop,Ada,90%
+V174,RoboSweep X150,94,<25% - Segera Isi Daya,Standar,50,2500,LiDAR + vSLAM,Ada,65%
+V175,RoboSweep X150,23,>75%,Senyap,50,2500,LiDAR + vSLAM,Tidak Ada,45%
+V176,RoboSweep X200,44,<25% - Segera Isi Daya,Senyap,65,2000,LiDAR + vSLAM,Ada,50%
+V177,RoboSweep X150,41,50-75%,Senyap,50,2000,LiDAR + vSLAM,Tidak Ada,85%
+V178,RoboSweep X150,67,>75%,Karpet,50,2000,LiDAR + vSLAM,Tidak Ada,30%
+V179,RoboSweep X200,51,>75%,Karpet,55,2500,Giroskop,Tidak Ada,50%
+V180,RoboSweep X150,16,50-75%,Senyap,50,2500,LiDAR + vSLAM,Tidak Ada,70%
+V181,RoboSweep X200,35,<25% - Segera Isi Daya,Senyap,68,2500,Giroskop,Ada,90%
+V182,RoboSweep X150,85,>75%,Karpet,65,2500,Giroskop,Ada,80%
+V183,RoboSweep X200,66,<25% - Segera Isi Daya,Senyap,55,2000,LiDAR + vSLAM,Ada,40%
+V184,RoboSweep X150,42,25-50%,Maksimal,68,2500,Giroskop,Ada,95%
+V185,RoboSweep X200,84,50-75%,Maksimal,50,2500,LiDAR + vSLAM,Ada,25%
+V186,RoboSweep X150,43,50-75%,Maksimal,68,2500,Giroskop,Ada,70%
+V187,RoboSweep X200,81,<25% - Segera Isi Daya,Maksimal,68,2000,LiDAR + vSLAM,Tidak Ada,10%
+V188,RoboSweep X150,65,25-50%,Maksimal,55,2500,Giroskop,Tidak Ada,65%
+V189,RoboSweep X200,63,25-50%,Karpet,55,2000,LiDAR + vSLAM,Ada,20%
+V190,RoboSweep X150,70,50-75%,Karpet,65,2000,Giroskop,Tidak Ada,65%
+V191,RoboSweep X150,64,25-50%,Maksimal,55,2500,Giroskop,Ada,70%
+V192,RoboSweep X200,42,>75%,Standar,68,2000,LiDAR + vSLAM,Tidak Ada,65%
+V193,RoboSweep X200,31,>75%,Standar,50,2000,Giroskop,Ada,10%
+V194,RoboSweep X150,16,<25% - Segera Isi Daya,Standar,68,2500,LiDAR + vSLAM,Tidak Ada,50%
+V195,RoboSweep X150,85,25-50%,Standar,65,2000,Giroskop,Tidak Ada,50%
+V196,RoboSweep X150,40,<25% - Segera Isi Daya,Karpet,50,2000,Giroskop,Tidak Ada,60%
+V197,RoboSweep X200,71,25-50%,Standar,65,2500,LiDAR + vSLAM,Tidak Ada,85%
+V198,RoboSweep X200,75,25-50%,Standar,55,2000,Giroskop,Ada,20%
+V199,RoboSweep X150,77,50-75%,Standar,68,2500,Giroskop,Ada,70%
+V200,RoboSweep X150,94,>75%,Standar,50,2000,LiDAR + vSLAM,Tidak Ada,40%
+V201,RoboSweep X200,71,>75%,Karpet,50,2500,Giroskop,Ada,95%
+V202,RoboSweep X150,45,<25% - Segera Isi Daya,Maksimal,50,2500,Giroskop,Ada,95%
+V203,RoboSweep X200,30,>75%,Karpet,68,2500,LiDAR + vSLAM,Ada,65%
+V204,RoboSweep X200,65,>75%,Senyap,65,2000,LiDAR + vSLAM,Tidak Ada,30%
+V205,RoboSweep X150,46,50-75%,Standar,55,2500,Giroskop,Tidak Ada,20%
+V206,RoboSweep X200,85,<25% - Segera Isi Daya,Karpet,65,2000,Giroskop,Ada,30%
+V207,RoboSweep X150,80,>75%,Standar,65,2500,Giroskop,Tidak Ada,40%
+V208,RoboSweep X150,23,<25% - Segera Isi Daya,Karpet,65,2500,Giroskop,Ada,25%
+V209,RoboSweep X200,80,>75%,Senyap,50,2500,LiDAR + vSLAM,Ada,75%
+V210,RoboSweep X150,32,>75%,Karpet,68,2500,LiDAR + vSLAM,Tidak Ada,50%
+V211,RoboSweep X200,90,<25% - Segera Isi Daya,Senyap,55,2000,LiDAR + vSLAM,Ada,30%
+V212,RoboSweep X150,53,50-75%,Senyap,55,2000,Giroskop,Ada,30%
+V213,RoboSweep X200,61,>75%,Karpet,68,2000,LiDAR + vSLAM,Ada,15%
+V214,RoboSweep X200,98,>75%,Maksimal,55,2500,Giroskop,Ada,90%
+V215,RoboSweep X200,77,25-50%,Standar,65,2500,Giroskop,Ada,15%
+V216,RoboSweep X200,12,25-50%,Karpet,65,2000,Giroskop,Ada,40%
+V217,RoboSweep X200,91,50-75%,Senyap,68,2500,LiDAR + vSLAM,Ada,25%
+V218,RoboSweep X150,57,<25% - Segera Isi Daya,Karpet,68,2500,LiDAR + vSLAM,Ada,75%
+V219,RoboSweep X150,77,50-75%,Senyap,55,2000,Giroskop,Ada,60%
+V220,RoboSweep X150,27,>75%,Maksimal,50,2500,LiDAR + vSLAM,Ada,15%
+V221,RoboSweep X200,83,>75%,Standar,55,2500,Giroskop,Ada,55%
+V222,RoboSweep X150,58,<25% - Segera Isi Daya,Senyap,55,2500,LiDAR + vSLAM,Ada,100%
+V223,RoboSweep X150,82,25-50%,Senyap,68,2000,LiDAR + vSLAM,Tidak Ada,65%
+V224,RoboSweep X200,96,>75%,Senyap,68,2000,LiDAR + vSLAM,Tidak Ada,50%
+V225,RoboSweep X200,16,25-50%,Karpet,65,2000,Giroskop,Ada,100%
+V226,RoboSweep X200,93,50-75%,Standar,55,2000,LiDAR + vSLAM,Tidak Ada,50%
+V227,RoboSweep X150,49,>75%,Karpet,65,2000,LiDAR + vSLAM,Ada,90%
+V228,RoboSweep X200,90,50-75%,Karpet,68,2000,Giroskop,Tidak Ada,45%
+V229,RoboSweep X200,91,50-75%,Karpet,55,2000,Giroskop,Tidak Ada,30%
+V230,RoboSweep X150,93,<25% - Segera Isi Daya,Standar,65,2000,Giroskop,Ada,90%
+V231,RoboSweep X200,33,25-50%,Standar,65,2000,Giroskop,Ada,70%
+V232,RoboSweep X200,21,25-50%,Karpet,55,2500,LiDAR + vSLAM,Ada,25%
+V233,RoboSweep X150,14,50-75%,Maksimal,55,2000,Giroskop,Ada,40%
+V234,RoboSweep X150,57,<25% - Segera Isi Daya,Senyap,68,2500,Giroskop,Tidak Ada,10%
+V235,RoboSweep X200,18,25-50%,Maksimal,65,2500,Giroskop,Tidak Ada,60%
+V236,RoboSweep X150,51,>75%,Karpet,55,2500,LiDAR + vSLAM,Tidak Ada,40%
+V237,RoboSweep X150,48,25-50%,Karpet,65,2000,Giroskop,Tidak Ada,95%
+V238,RoboSweep X150,90,<25% - Segera Isi Daya,Maksimal,55,2500,LiDAR + vSLAM,Tidak Ada,90%
+V239,RoboSweep X200,45,50-75%,Maksimal,68,2000,Giroskop,Ada,40%
+V240,RoboSweep X150,88,25-50%,Maksimal,65,2000,Giroskop,Ada,35%
+V241,RoboSweep X150,100,25-50%,Maksimal,55,2500,Giroskop,Ada,75%
+V242,RoboSweep X200,73,50-75%,Standar,65,2500,LiDAR + vSLAM,Tidak Ada,40%
+V243,RoboSweep X150,18,50-75%,Standar,55,2500,LiDAR + vSLAM,Tidak Ada,45%
+V244,RoboSweep X150,94,25-50%,Senyap,65,2000,Giroskop,Ada,20%
+V245,RoboSweep X150,13,<25% - Segera Isi Daya,Standar,55,2500,Giroskop,Tidak Ada,90%
+V246,RoboSweep X150,30,>75%,Karpet,65,2500,LiDAR + vSLAM,Tidak Ada,100%
+V247,RoboSweep X200,72,<25% - Segera Isi Daya,Senyap,65,2000,LiDAR + vSLAM,Tidak Ada,20%
+V248,RoboSweep X200,58,>75%,Standar,55,2500,LiDAR + vSLAM,Ada,90%
+V249,RoboSweep X150,30,<25% - Segera Isi Daya,Standar,55,2000,LiDAR + vSLAM,Ada,35%
+V250,RoboSweep X200,84,25-50%,Senyap,68,2000,LiDAR + vSLAM,Ada,65%
+V251,RoboSweep X150,86,>75%,Senyap,65,2000,LiDAR + vSLAM,Ada,20%
+V252,RoboSweep X200,81,<25% - Segera Isi Daya,Senyap,68,2000,Giroskop,Ada,75%
+V253,RoboSweep X200,33,50-75%,Senyap,68,2000,LiDAR + vSLAM,Tidak Ada,10%
+V254,RoboSweep X200,38,25-50%,Senyap,65,2500,LiDAR + vSLAM,Tidak Ada,95%
+V255,RoboSweep X200,48,>75%,Karpet,50,2500,Giroskop,Ada,25%
+V256,RoboSweep X150,85,>75%,Maksimal,65,2500,LiDAR + vSLAM,Tidak Ada,65%
+V257,RoboSweep X150,100,>75%,Senyap,50,2000,Giroskop,Tidak Ada,30%
+V258,RoboSweep X200,11,50-75%,Maksimal,50,2000,Giroskop,Tidak Ada,80%
+V259,RoboSweep X200,23,>75%,Senyap,65,2500,LiDAR + vSLAM,Tidak Ada,95%
+V260,RoboSweep X150,78,25-50%,Senyap,55,2500,Giroskop,Ada,95%
+V261,RoboSweep X150,34,<25% - Segera Isi Daya,Karpet,65,2000,Giroskop,Tidak Ada,70%
+V262,RoboSweep X150,67,50-75%,Standar,55,2500,Giroskop,Tidak Ada,60%
+V263,RoboSweep X150,30,50-75%,Karpet,68,2000,LiDAR + vSLAM,Tidak Ada,50%
+V264,RoboSweep X150,16,>75%,Standar,55,2000,Giroskop,Ada,20%
+V265,RoboSweep X150,19,25-50%,Standar,68,2500,LiDAR + vSLAM,Ada,30%
+V266,RoboSweep X150,17,50-75%,Maksimal,65,2000,LiDAR + vSLAM,Ada,30%
+V267,RoboSweep X150,89,50-75%,Standar,65,2000,LiDAR + vSLAM,Ada,45%
+V268,RoboSweep X150,53,25-50%,Standar,50,2000,LiDAR + vSLAM,Ada,90%
+V269,RoboSweep X200,49,<25% - Segera Isi Daya,Maksimal,50,2500,Giroskop,Tidak Ada,80%
+V270,RoboSweep X150,17,25-50%,Maksimal,68,2500,Giroskop,Ada,30%
+V271,RoboSweep X150,40,25-50%,Karpet,68,2000,Giroskop,Ada,10%
+V272,RoboSweep X150,73,>75%,Senyap,65,2000,Giroskop,Ada,40%
+V273,RoboSweep X150,94,>75%,Standar,65,2000,LiDAR + vSLAM,Tidak Ada,80%
+V274,RoboSweep X150,45,50-75%,Maksimal,68,2500,LiDAR + vSLAM,Ada,45%
+V275,RoboSweep X200,73,>75%,Maksimal,50,2500,Giroskop,Tidak Ada,20%
+V276,RoboSweep X150,41,>75%,Standar,68,2500,Giroskop,Tidak Ada,90%
+V277,RoboSweep X200,23,25-50%,Karpet,55,2500,Giroskop,Ada,10%
+V278,RoboSweep X150,88,25-50%,Standar,65,2500,Giroskop,Tidak Ada,100%
+V279,RoboSweep X150,97,25-50%,Standar,68,2500,Giroskop,Ada,85%
+V280,RoboSweep X200,61,<25% - Segera Isi Daya,Standar,55,2000,Giroskop,Ada,20%
+V281,RoboSweep X150,59,>75%,Maksimal,68,2000,Giroskop,Tidak Ada,60%
+V282,RoboSweep X150,97,50-75%,Standar,65,2000,LiDAR + vSLAM,Tidak Ada,35%
+V283,RoboSweep X150,83,50-75%,Karpet,68,2500,Giroskop,Ada,45%
+V284,RoboSweep X200,88,<25% - Segera Isi Daya,Standar,65,2000,LiDAR + vSLAM,Ada,30%
+V285,RoboSweep X150,21,25-50%,Standar,50,2000,Giroskop,Ada,35%
+V286,RoboSweep X200,37,25-50%,Maksimal,55,2500,Giroskop,Ada,35%
+V287,RoboSweep X150,38,<25% - Segera Isi Daya,Standar,68,2500,Giroskop,Ada,35%
+V288,RoboSweep X200,64,50-75%,Karpet,68,2500,LiDAR + vSLAM,Ada,25%
+V289,RoboSweep X200,83,25-50%,Karpet,55,2000,LiDAR + vSLAM,Tidak Ada,25%
+V290,RoboSweep X150,49,>75%,Maksimal,50,2500,Giroskop,Tidak Ada,85%
+V291,RoboSweep X150,35,25-50%,Senyap,68,2500,LiDAR + vSLAM,Tidak Ada,25%
+V292,RoboSweep X150,51,>75%,Standar,65,2000,LiDAR + vSLAM,Ada,70%
+V293,RoboSweep X200,78,>75%,Karpet,68,2000,LiDAR + vSLAM,Tidak Ada,10%
+V294,RoboSweep X150,76,<25% - Segera Isi Daya,Standar,50,2500,LiDAR + vSLAM,Ada,80%
+V295,RoboSweep X200,15,>75%,Karpet,65,2000,LiDAR + vSLAM,Ada,95%
+V296,RoboSweep X200,47,25-50%,Standar,68,2500,LiDAR + vSLAM,Ada,35%
+V297,RoboSweep X150,12,<25% - Segera Isi Daya,Senyap,68,2000,LiDAR + vSLAM,Tidak Ada,80%
+V298,RoboSweep X200,83,25-50%,Senyap,68,2500,Giroskop,Ada,55%
+V299,RoboSweep X200,70,>75%,Karpet,50,2500,Giroskop,Ada,90%
+V300,RoboSweep X200,79,<25% - Segera Isi Daya,Senyap,68,2500,Giroskop,Tidak Ada,40%
+V301,RoboSweep X150,15,50-75%,Senyap,68,2500,Giroskop,Tidak Ada,95%
+V302,RoboSweep X200,61,>75%,Maksimal,68,2500,LiDAR + vSLAM,Tidak Ada,15%
+V303,RoboSweep X200,65,<25% - Segera Isi Daya,Senyap,55,2000,LiDAR + vSLAM,Ada,30%
+V304,RoboSweep X150,13,25-50%,Maksimal,68,2500,Giroskop,Tidak Ada,55%
+V305,RoboSweep X150,81,<25% - Segera Isi Daya,Senyap,50,2500,Giroskop,Ada,25%
+V306,RoboSweep X200,83,<25% - Segera Isi Daya,Maksimal,68,2000,LiDAR + vSLAM,Ada,55%
+V307,RoboSweep X200,93,25-50%,Karpet,55,2500,LiDAR + vSLAM,Tidak Ada,40%
+V308,RoboSweep X200,58,>75%,Senyap,65,2500,LiDAR + vSLAM,Tidak Ada,45%
+V309,RoboSweep X200,28,25-50%,Standar,55,2000,Giroskop,Tidak Ada,70%
+V310,RoboSweep X150,88,25-50%,Senyap,50,2000,LiDAR + vSLAM,Ada,30%
+V311,RoboSweep X150,10,<25% - Segera Isi Daya,Maksimal,68,2000,LiDAR + vSLAM,Tidak Ada,50%
+V312,RoboSweep X200,34,<25% - Segera Isi Daya,Standar,65,2500,Giroskop,Tidak Ada,20%
+V313,RoboSweep X200,44,<25% - Segera Isi Daya,Standar,55,2500,LiDAR + vSLAM,Ada,60%
+V314,RoboSweep X200,52,25-50%,Maksimal,55,2000,LiDAR + vSLAM,Tidak Ada,75%
+V315,RoboSweep X150,82,>75%,Maksimal,50,2500,Giroskop,Tidak Ada,95%
+V316,RoboSweep X150,21,<25% - Segera Isi Daya,Karpet,55,2000,Giroskop,Tidak Ada,75%
+V317,RoboSweep X150,95,>75%,Senyap,50,2500,LiDAR + vSLAM,Ada,95%
+V318,RoboSweep X150,84,<25% - Segera Isi Daya,Senyap,65,2500,Giroskop,Tidak Ada,90%
+V319,RoboSweep X200,23,25-50%,Maksimal,68,2000,Giroskop,Tidak Ada,60%
+V320,RoboSweep X200,68,<25% - Segera Isi Daya,Standar,68,2500,Giroskop,Ada,95%
+V321,RoboSweep X200,23,25-50%,Karpet,55,2500,LiDAR + vSLAM,Tidak Ada,95%
+V322,RoboSweep X150,49,25-50%,Senyap,55,2000,LiDAR + vSLAM,Tidak Ada,60%
+V323,RoboSweep X200,37,50-75%,Standar,55,2500,Giroskop,Ada,65%
+V324,RoboSweep X200,25,<25% - Segera Isi Daya,Karpet,68,2500,Giroskop,Ada,100%
+V325,RoboSweep X150,67,50-75%,Senyap,65,2000,Giroskop,Ada,60%
+V326,RoboSweep X150,97,25-50%,Karpet,55,2500,LiDAR + vSLAM,Tidak Ada,15%
+V327,RoboSweep X150,18,25-50%,Karpet,68,2000,LiDAR + vSLAM,Tidak Ada,25%
+V328,RoboSweep X150,68,25-50%,Senyap,65,2000,LiDAR + vSLAM,Tidak Ada,70%
+V329,RoboSweep X200,56,<25% - Segera Isi Daya,Standar,68,2000,Giroskop,Tidak Ada,55%
+V330,RoboSweep X150,51,25-50%,Maksimal,68,2500,LiDAR + vSLAM,Ada,85%
+V331,RoboSweep X200,42,<25% - Segera Isi Daya,Maksimal,50,2000,LiDAR + vSLAM,Tidak Ada,25%
+V332,RoboSweep X200,52,>75%,Karpet,50,2000,LiDAR + vSLAM,Ada,35%
+V333,RoboSweep X200,72,50-75%,Karpet,65,2000,Giroskop,Tidak Ada,10%
+V334,RoboSweep X150,22,25-50%,Standar,50,2500,LiDAR + vSLAM,Tidak Ada,10%
+V335,RoboSweep X200,71,<25% - Segera Isi Daya,Maksimal,68,2000,Giroskop,Tidak Ada,35%
+V336,RoboSweep X150,29,25-50%,Karpet,68,2500,Giroskop,Ada,10%
+V337,RoboSweep X200,83,25-50%,Standar,50,2000,LiDAR + vSLAM,Ada,75%
+V338,RoboSweep X150,57,<25% - Segera Isi Daya,Senyap,55,2500,LiDAR + vSLAM,Ada,35%
+V339,RoboSweep X200,71,<25% - Segera Isi Daya,Standar,65,2000,LiDAR + vSLAM,Tidak Ada,40%
+V340,RoboSweep X200,78,<25% - Segera Isi Daya,Karpet,55,2500,LiDAR + vSLAM,Tidak Ada,10%
+V341,RoboSweep X150,54,<25% - Segera Isi Daya,Karpet,68,2500,Giroskop,Tidak Ada,35%
+V342,RoboSweep X150,60,>75%,Karpet,65,2000,Giroskop,Tidak Ada,100%
+V343,RoboSweep X200,38,50-75%,Maksimal,55,2500,LiDAR + vSLAM,Ada,50%
+V344,RoboSweep X200,71,25-50%,Maksimal,65,2000,LiDAR + vSLAM,Ada,35%
+V345,RoboSweep X150,29,<25% - Segera Isi Daya,Senyap,50,2500,LiDAR + vSLAM,Ada,60%
+V346,RoboSweep X200,39,50-75%,Maksimal,65,2000,LiDAR + vSLAM,Tidak Ada,25%
+V347,RoboSweep X200,19,<25% - Segera Isi Daya,Maksimal,68,2000,Giroskop,Ada,15%
+V348,RoboSweep X150,39,<25% - Segera Isi Daya,Senyap,50,2500,LiDAR + vSLAM,Ada,15%
+V349,RoboSweep X200,62,<25% - Segera Isi Daya,Standar,65,2500,LiDAR + vSLAM,Tidak Ada,50%
+V350,RoboSweep X200,43,<25% - Segera Isi Daya,Maksimal,55,2000,LiDAR + vSLAM,Tidak Ada,40%
+V351,RoboSweep X150,44,50-75%,Standar,68,2500,LiDAR + vSLAM,Ada,85%
+V352,RoboSweep X200,33,>75%,Senyap,65,2500,LiDAR + vSLAM,Ada,20%
+V353,RoboSweep X200,99,25-50%,Karpet,65,2500,Giroskop,Ada,60%
+V354,RoboSweep X200,34,50-75%,Standar,65,2000,LiDAR + vSLAM,Tidak Ada,20%
+V355,RoboSweep X150,97,<25% - Segera Isi Daya,Maksimal,65,2500,LiDAR + vSLAM,Tidak Ada,85%
+V356,RoboSweep X200,73,50-75%,Karpet,68,2500,Giroskop,Tidak Ada,55%
+V357,RoboSweep X200,95,25-50%,Maksimal,55,2500,Giroskop,Ada,30%
+V358,RoboSweep X150,63,>75%,Karpet,55,2000,Giroskop,Ada,25%
+V359,RoboSweep X200,55,<25% - Segera Isi Daya,Karpet,50,2000,Giroskop,Tidak Ada,95%
+V360,RoboSweep X150,12,50-75%,Maksimal,65,2500,LiDAR + vSLAM,Tidak Ada,95%
+V361,RoboSweep X200,70,>75%,Senyap,65,2500,Giroskop,Ada,60%
+V362,RoboSweep X150,11,<25% - Segera Isi Daya,Maksimal,55,2500,LiDAR + vSLAM,Tidak Ada,75%
+V363,RoboSweep X150,18,25-50%,Karpet,55,2500,LiDAR + vSLAM,Tidak Ada,65%
+V364,RoboSweep X200,100,>75%,Standar,65,2500,LiDAR + vSLAM,Tidak Ada,40%
+V365,RoboSweep X200,25,>75%,Standar,55,2000,Giroskop,Tidak Ada,45%
+V366,RoboSweep X150,14,25-50%,Karpet,65,2000,LiDAR + vSLAM,Ada,20%
+V367,RoboSweep X200,31,50-75%,Maksimal,68,2000,Giroskop,Ada,55%
+V368,RoboSweep X150,25,50-75%,Maksimal,55,2000,LiDAR + vSLAM,Ada,70%
+V369,RoboSweep X150,65,50-75%,Karpet,55,2500,LiDAR + vSLAM,Tidak Ada,40%
+V370,RoboSweep X150,93,25-50%,Maksimal,68,2000,Giroskop,Tidak Ada,60%
+V371,RoboSweep X150,69,<25% - Segera Isi Daya,Maksimal,55,2500,Giroskop,Ada,65%
+V372,RoboSweep X150,64,25-50%,Maksimal,68,2500,LiDAR + vSLAM,Tidak Ada,40%
+V373,RoboSweep X200,40,>75%,Karpet,50,2000,Giroskop,Ada,10%
+V374,RoboSweep X200,19,>75%,Standar,65,2000,Giroskop,Ada,35%
+V375,RoboSweep X200,53,25-50%,Standar,50,2500,Giroskop,Ada,30%
+V376,RoboSweep X200,45,<25% - Segera Isi Daya,Senyap,55,2000,LiDAR + vSLAM,Ada,30%
+V377,RoboSweep X200,24,<25% - Segera Isi Daya,Karpet,65,2000,Giroskop,Tidak Ada,10%
+V378,RoboSweep X150,35,50-75%,Standar,50,2500,LiDAR + vSLAM,Ada,40%
+V379,RoboSweep X150,47,<25% - Segera Isi Daya,Karpet,50,2500,Giroskop,Ada,10%
+V380,RoboSweep X150,36,25-50%,Standar,68,2000,Giroskop,Tidak Ada,85%
+V381,RoboSweep X150,94,50-75%,Senyap,50,2000,LiDAR + vSLAM,Tidak Ada,15%
+V382,RoboSweep X200,74,>75%,Karpet,68,2500,Giroskop,Ada,45%
+V383,RoboSweep X200,77,25-50%,Karpet,50,2500,Giroskop,Tidak Ada,100%
+V384,RoboSweep X200,82,50-75%,Karpet,65,2500,LiDAR + vSLAM,Tidak Ada,25%
+V385,RoboSweep X200,78,50-75%,Standar,68,2000,Giroskop,Tidak Ada,80%
+V386,RoboSweep X150,43,<25% - Segera Isi Daya,Maksimal,50,2000,LiDAR + vSLAM,Ada,95%
+V387,RoboSweep X200,60,25-50%,Standar,65,2000,LiDAR + vSLAM,Tidak Ada,90%
+V388,RoboSweep X150,87,25-50%,Standar,50,2500,Giroskop,Ada,95%
+V389,RoboSweep X200,56,<25% - Segera Isi Daya,Senyap,50,2000,Giroskop,Ada,60%
+V390,RoboSweep X200,60,25-50%,Maksimal,68,2000,LiDAR + vSLAM,Ada,100%
+V391,RoboSweep X150,29,25-50%,Maksimal,65,2000,Giroskop,Ada,20%
+V392,RoboSweep X200,78,25-50%,Karpet,55,2000,LiDAR + vSLAM,Ada,100%
+V393,RoboSweep X200,10,50-75%,Senyap,55,2000,LiDAR + vSLAM,Tidak Ada,95%
+V394,RoboSweep X150,66,25-50%,Karpet,65,2500,LiDAR + vSLAM,Ada,65%
+V395,RoboSweep X150,77,25-50%,Maksimal,68,2000,LiDAR + vSLAM,Ada,85%
+V396,RoboSweep X150,68,25-50%,Standar,55,2500,Giroskop,Tidak Ada,25%
+V397,RoboSweep X200,38,50-75%,Karpet,65,2500,Giroskop,Ada,80%
+V398,RoboSweep X150,40,25-50%,Standar,65,2500,LiDAR + vSLAM,Tidak Ada,35%
+V399,RoboSweep X200,84,25-50%,Karpet,50,2500,LiDAR + vSLAM,Ada,45%
+V400,RoboSweep X200,74,50-75%,Senyap,65,2500,LiDAR + vSLAM,Ada,40%
+V401,RoboSweep X200,13,>75%,Senyap,65,2500,Giroskop,Tidak Ada,75%
+V402,RoboSweep X200,14,<25% - Segera Isi Daya,Karpet,55,2000,LiDAR + vSLAM,Tidak Ada,95%
+V403,RoboSweep X200,87,<25% - Segera Isi Daya,Maksimal,55,2000,Giroskop,Tidak Ada,95%
+V404,RoboSweep X150,64,<25% - Segera Isi Daya,Maksimal,65,2000,Giroskop,Tidak Ada,35%
+V405,RoboSweep X200,84,>75%,Standar,50,2500,LiDAR + vSLAM,Tidak Ada,30%
+V406,RoboSweep X200,29,>75%,Standar,65,2500,Giroskop,Tidak Ada,100%
+V407,RoboSweep X200,55,<25% - Segera Isi Daya,Standar,65,2500,Giroskop,Ada,10%
+V408,RoboSweep X200,77,<25% - Segera Isi Daya,Standar,50,2000,LiDAR + vSLAM,Tidak Ada,20%
+V409,RoboSweep X200,89,50-75%,Standar,50,2500,LiDAR + vSLAM,Ada,65%
+V410,RoboSweep X200,83,<25% - Segera Isi Daya,Standar,55,2500,Giroskop,Tidak Ada,90%
+V411,RoboSweep X150,34,>75%,Karpet,68,2500,Giroskop,Tidak Ada,40%
+V412,RoboSweep X150,88,25-50%,Maksimal,50,2500,LiDAR + vSLAM,Ada,95%
+V413,RoboSweep X150,83,<25% - Segera Isi Daya,Standar,68,2500,LiDAR + vSLAM,Ada,10%
+V414,RoboSweep X150,34,50-75%,Maksimal,55,2000,LiDAR + vSLAM,Ada,90%
+V415,RoboSweep X150,57,>75%,Senyap,55,2000,Giroskop,Tidak Ada,35%
+V416,RoboSweep X200,30,50-75%,Maksimal,65,2500,Giroskop,Ada,100%
+V417,RoboSweep X200,97,<25% - Segera Isi Daya,Maksimal,50,2000,Giroskop,Ada,10%
+V418,RoboSweep X150,12,25-50%,Maksimal,65,2000,LiDAR + vSLAM,Tidak Ada,55%
+V419,RoboSweep X150,18,50-75%,Senyap,68,2500,Giroskop,Ada,10%
+V420,RoboSweep X200,29,>75%,Senyap,50,2500,Giroskop,Ada,10%
+V421,RoboSweep X150,38,<25% - Segera Isi Daya,Senyap,65,2500,LiDAR + vSLAM,Ada,90%
+V422,RoboSweep X200,15,25-50%,Senyap,50,2000,Giroskop,Ada,65%
+V423,RoboSweep X150,66,<25% - Segera Isi Daya,Maksimal,65,2500,LiDAR + vSLAM,Tidak Ada,80%
+V424,RoboSweep X150,27,25-50%,Standar,55,2000,Giroskop,Ada,25%
+V425,RoboSweep X150,25,>75%,Maksimal,55,2000,Giroskop,Ada,40%
+V426,RoboSweep X150,99,>75%,Maksimal,65,2500,Giroskop,Ada,60%
+V427,RoboSweep X200,75,50-75%,Standar,55,2500,LiDAR + vSLAM,Ada,25%
+V428,RoboSweep X200,25,<25% - Segera Isi Daya,Senyap,50,2000,Giroskop,Ada,35%
+V429,RoboSweep X200,22,<25% - Segera Isi Daya,Karpet,65,2000,LiDAR + vSLAM,Ada,80%
+V430,RoboSweep X150,32,50-75%,Senyap,68,2000,Giroskop,Ada,50%
+V431,RoboSweep X150,26,<25% - Segera Isi Daya,Senyap,55,2000,Giroskop,Ada,90%
+V432,RoboSweep X150,27,50-75%,Senyap,65,2000,LiDAR + vSLAM,Ada,45%
+V433,RoboSweep X150,31,>75%,Senyap,50,2500,LiDAR + vSLAM,Tidak Ada,45%
+V434,RoboSweep X200,62,25-50%,Maksimal,65,2500,Giroskop,Ada,15%
+V435,RoboSweep X150,46,>75%,Karpet,50,2500,Giroskop,Ada,30%
+V436,RoboSweep X200,28,25-50%,Standar,68,2500,Giroskop,Tidak Ada,35%
+V437,RoboSweep X150,87,<25% - Segera Isi Daya,Standar,68,2000,Giroskop,Tidak Ada,45%
+V438,RoboSweep X150,83,<25% - Segera Isi Daya,Senyap,68,2000,LiDAR + vSLAM,Tidak Ada,55%
+V439,RoboSweep X150,69,50-75%,Senyap,65,2500,LiDAR + vSLAM,Ada,25%
+V440,RoboSweep X200,31,50-75%,Karpet,50,2000,Giroskop,Ada,85%
+V441,RoboSweep X150,91,<25% - Segera Isi Daya,Senyap,50,2500,Giroskop,Tidak Ada,30%
+V442,RoboSweep X150,65,<25% - Segera Isi Daya,Standar,50,2500,Giroskop,Ada,70%
+V443,RoboSweep X150,73,25-50%,Senyap,65,2000,Giroskop,Ada,10%
+V444,RoboSweep X150,29,25-50%,Maksimal,50,2000,Giroskop,Ada,85%
+V445,RoboSweep X150,84,25-50%,Senyap,65,2500,LiDAR + vSLAM,Tidak Ada,100%
+V446,RoboSweep X200,32,50-75%,Maksimal,68,2000,Giroskop,Tidak Ada,95%
+V447,RoboSweep X150,69,50-75%,Karpet,50,2000,LiDAR + vSLAM,Ada,55%
+V448,RoboSweep X200,28,>75%,Standar,65,2500,LiDAR + vSLAM,Tidak Ada,85%
+V449,RoboSweep X150,81,25-50%,Maksimal,50,2500,Giroskop,Ada,80%
+V450,RoboSweep X200,48,<25% - Segera Isi Daya,Senyap,50,2000,LiDAR + vSLAM,Tidak Ada,95%
+V451,RoboSweep X200,54,50-75%,Maksimal,68,2000,Giroskop,Ada,55%
+V452,RoboSweep X200,30,50-75%,Karpet,55,2500,Giroskop,Tidak Ada,85%
+V453,RoboSweep X150,82,<25% - Segera Isi Daya,Maksimal,65,2000,LiDAR + vSLAM,Ada,35%
+V454,RoboSweep X200,72,<25% - Segera Isi Daya,Standar,55,2000,LiDAR + vSLAM,Tidak Ada,45%
+V455,RoboSweep X200,18,<25% - Segera Isi Daya,Senyap,50,2000,Giroskop,Ada,50%
+V456,RoboSweep X200,100,50-75%,Standar,68,2500,Giroskop,Ada,15%
+V457,RoboSweep X150,43,25-50%,Standar,55,2500,Giroskop,Ada,80%
+V458,RoboSweep X150,32,25-50%,Standar,50,2500,LiDAR + vSLAM,Ada,90%
+V459,RoboSweep X200,86,<25% - Segera Isi Daya,Senyap,68,2000,LiDAR + vSLAM,Ada,60%
+V460,RoboSweep X200,84,>75%,Senyap,65,2500,Giroskop,Tidak Ada,45%
+V461,RoboSweep X200,75,25-50%,Karpet,50,2500,Giroskop,Ada,40%
+V462,RoboSweep X200,26,>75%,Maksimal,65,2000,Giroskop,Tidak Ada,95%
+V463,RoboSweep X200,42,<25% - Segera Isi Daya,Maksimal,55,2000,LiDAR + vSLAM,Ada,35%
+V464,RoboSweep X150,43,<25% - Segera Isi Daya,Standar,65,2000,Giroskop,Ada,100%
+V465,RoboSweep X200,33,<25% - Segera Isi Daya,Karpet,68,2500,Giroskop,Ada,35%
+V466,RoboSweep X200,15,>75%,Senyap,50,2000,LiDAR + vSLAM,Tidak Ada,55%
+V467,RoboSweep X200,82,>75%,Senyap,68,2000,LiDAR + vSLAM,Ada,55%
+V468,RoboSweep X150,72,50-75%,Maksimal,55,2000,LiDAR + vSLAM,Ada,100%
+V469,RoboSweep X150,83,<25% - Segera Isi Daya,Standar,68,2000,LiDAR + vSLAM,Ada,60%
+V470,RoboSweep X200,20,>75%,Standar,65,2000,Giroskop,Tidak Ada,70%
+V471,RoboSweep X150,75,50-75%,Karpet,65,2500,Giroskop,Ada,25%
+V472,RoboSweep X150,68,<25% - Segera Isi Daya,Senyap,65,2000,Giroskop,Ada,85%
+V473,RoboSweep X200,18,25-50%,Maksimal,68,2500,Giroskop,Ada,40%
+V474,RoboSweep X200,13,25-50%,Standar,65,2500,LiDAR + vSLAM,Tidak Ada,50%
+V475,RoboSweep X150,37,25-50%,Maksimal,55,2500,LiDAR + vSLAM,Ada,15%
+V476,RoboSweep X200,63,25-50%,Senyap,55,2500,Giroskop,Tidak Ada,70%
+V477,RoboSweep X150,58,>75%,Standar,65,2500,LiDAR + vSLAM,Tidak Ada,65%
+V478,RoboSweep X150,59,>75%,Senyap,50,2500,LiDAR + vSLAM,Tidak Ada,75%
+V479,RoboSweep X150,87,>75%,Senyap,68,2000,LiDAR + vSLAM,Tidak Ada,75%
+V480,RoboSweep X200,97,50-75%,Senyap,65,2000,Giroskop,Tidak Ada,60%
+V481,RoboSweep X150,80,25-50%,Karpet,55,2500,LiDAR + vSLAM,Tidak Ada,55%
+V482,RoboSweep X200,85,<25% - Segera Isi Daya,Karpet,65,2000,LiDAR + vSLAM,Ada,30%
+V483,RoboSweep X200,38,50-75%,Maksimal,65,2000,LiDAR + vSLAM,Ada,15%
+V484,RoboSweep X200,80,<25% - Segera Isi Daya,Senyap,55,2000,LiDAR + vSLAM,Tidak Ada,30%
+V485,RoboSweep X200,66,50-75%,Karpet,55,2500,LiDAR + vSLAM,Ada,80%
+V486,RoboSweep X150,68,>75%,Standar,65,2000,LiDAR + vSLAM,Ada,60%
+V487,RoboSweep X200,25,<25% - Segera Isi Daya,Senyap,68,2500,LiDAR + vSLAM,Ada,80%
+V488,RoboSweep X200,53,50-75%,Karpet,55,2000,Giroskop,Tidak Ada,45%
+V489,RoboSweep X200,35,<25% - Segera Isi Daya,Karpet,68,2000,LiDAR + vSLAM,Ada,35%
+V490,RoboSweep X150,86,50-75%,Karpet,65,2000,Giroskop,Tidak Ada,25%
+V491,RoboSweep X200,32,25-50%,Standar,65,2500,Giroskop,Ada,40%
+V492,RoboSweep X200,53,<25% - Segera Isi Daya,Karpet,50,2500,LiDAR + vSLAM,Ada,100%
+V493,RoboSweep X150,27,50-75%,Standar,68,2000,Giroskop,Ada,35%
+V494,RoboSweep X200,81,25-50%,Maksimal,55,2000,Giroskop,Tidak Ada,60%
+V495,RoboSweep X150,37,50-75%,Karpet,68,2500,LiDAR + vSLAM,Tidak Ada,70%
+V496,RoboSweep X200,85,50-75%,Maksimal,68,2000,LiDAR + vSLAM,Ada,75%
+V497,RoboSweep X150,53,>75%,Karpet,68,2500,LiDAR + vSLAM,Ada,55%
+V498,RoboSweep X200,53,25-50%,Senyap,68,2000,Giroskop,Tidak Ada,45%
+V499,RoboSweep X150,15,>75%,Senyap,65,2500,Giroskop,Tidak Ada,90%
+V500,RoboSweep X150,29,>75%,Standar,55,2000,Giroskop,Tidak Ada,75%
+V501,RoboSweep X150,52,25-50%,Senyap,68,2000,Giroskop,Ada,20%
+V502,RoboSweep X200,48,25-50%,Maksimal,50,2000,Giroskop,Ada,85%
+V503,RoboSweep X200,35,25-50%,Karpet,55,2000,LiDAR + vSLAM,Tidak Ada,100%
+V504,RoboSweep X200,77,25-50%,Senyap,55,2000,LiDAR + vSLAM,Ada,50%
+V505,RoboSweep X200,28,50-75%,Standar,50,2500,Giroskop,Tidak Ada,75%
+V506,RoboSweep X150,20,50-75%,Senyap,55,2000,LiDAR + vSLAM,Tidak Ada,20%
+V507,RoboSweep X150,58,50-75%,Standar,65,2500,LiDAR + vSLAM,Tidak Ada,40%
+V508,RoboSweep X200,95,>75%,Standar,50,2500,LiDAR + vSLAM,Ada,40%
+V509,RoboSweep X200,19,25-50%,Standar,55,2000,Giroskop,Tidak Ada,90%
+V510,RoboSweep X200,30,<25% - Segera Isi Daya,Senyap,65,2000,LiDAR + vSLAM,Ada,95%
+V511,RoboSweep X150,14,>75%,Standar,65,2500,LiDAR + vSLAM,Ada,25%
+V512,RoboSweep X200,27,<25% - Segera Isi Daya,Karpet,55,2000,LiDAR + vSLAM,Tidak Ada,10%
+V513,RoboSweep X150,97,50-75%,Karpet,65,2000,Giroskop,Ada,15%
+V514,RoboSweep X150,44,<25% - Segera Isi Daya,Senyap,55,2500,Giroskop,Tidak Ada,60%
+V515,RoboSweep X200,60,>75%,Standar,50,2000,LiDAR + vSLAM,Ada,60%
+V516,RoboSweep X200,26,<25% - Segera Isi Daya,Senyap,55,2500,LiDAR + vSLAM,Ada,70%
+V517,RoboSweep X200,94,50-75%,Maksimal,55,2500,LiDAR + vSLAM,Ada,80%
+V518,RoboSweep X200,55,>75%,Senyap,68,2500,LiDAR + vSLAM,Tidak Ada,85%
+V519,RoboSweep X200,90,25-50%,Karpet,55,2500,LiDAR + vSLAM,Ada,10%
+V520,RoboSweep X150,55,>75%,Maksimal,50,2500,Giroskop,Ada,65%
+V521,RoboSweep X200,93,25-50%,Karpet,68,2500,LiDAR + vSLAM,Tidak Ada,40%
+V522,RoboSweep X200,83,>75%,Senyap,55,2500,LiDAR + vSLAM,Ada,20%
+V523,RoboSweep X200,15,25-50%,Karpet,68,2000,Giroskop,Ada,95%
+V524,RoboSweep X150,73,50-75%,Senyap,68,2500,Giroskop,Ada,100%
+V525,RoboSweep X200,10,50-75%,Senyap,68,2500,LiDAR + vSLAM,Tidak Ada,60%
+V526,RoboSweep X200,34,>75%,Maksimal,50,2500,LiDAR + vSLAM,Ada,80%
+V527,RoboSweep X200,100,50-75%,Senyap,65,2500,Giroskop,Ada,75%
+V528,RoboSweep X150,23,50-75%,Maksimal,65,2500,LiDAR + vSLAM,Ada,10%
+V529,RoboSweep X200,10,>75%,Standar,68,2500,LiDAR + vSLAM,Tidak Ada,65%
+V530,RoboSweep X150,43,25-50%,Maksimal,68,2500,Giroskop,Ada,50%
+V531,RoboSweep X200,93,50-75%,Senyap,68,2000,LiDAR + vSLAM,Tidak Ada,15%
+V532,RoboSweep X150,62,<25% - Segera Isi Daya,Maksimal,50,2000,Giroskop,Tidak Ada,50%
+V533,RoboSweep X200,88,50-75%,Standar,65,2000,Giroskop,Tidak Ada,55%
+V534,RoboSweep X200,82,>75%,Standar,55,2500,Giroskop,Ada,15%
+V535,RoboSweep X150,71,50-75%,Senyap,65,2000,Giroskop,Ada,50%
+V536,RoboSweep X150,69,25-50%,Maksimal,50,2000,Giroskop,Tidak Ada,100%
+V537,RoboSweep X200,79,50-75%,Standar,65,2000,LiDAR + vSLAM,Tidak Ada,95%
+V538,RoboSweep X150,75,25-50%,Standar,65,2500,Giroskop,Tidak Ada,90%
+V539,RoboSweep X150,96,>75%,Standar,50,2000,LiDAR + vSLAM,Tidak Ada,45%
+V540,RoboSweep X200,24,>75%,Standar,65,2500,LiDAR + vSLAM,Ada,85%
+V541,RoboSweep X200,73,>75%,Karpet,65,2500,LiDAR + vSLAM,Ada,80%
+V542,RoboSweep X200,37,<25% - Segera Isi Daya,Maksimal,50,2000,Giroskop,Tidak Ada,55%
+V543,RoboSweep X150,76,>75%,Standar,50,2000,LiDAR + vSLAM,Ada,100%
+V544,RoboSweep X200,27,25-50%,Karpet,50,2500,LiDAR + vSLAM,Ada,65%
+V545,RoboSweep X200,60,25-50%,Maksimal,68,2000,Giroskop,Tidak Ada,70%
+V546,RoboSweep X200,62,<25% - Segera Isi Daya,Standar,68,2500,Giroskop,Ada,85%
+V547,RoboSweep X200,78,50-75%,Maksimal,50,2000,LiDAR + vSLAM,Tidak Ada,35%
+V548,RoboSweep X200,60,>75%,Maksimal,68,2500,Giroskop,Ada,85%
+V549,RoboSweep X150,25,<25% - Segera Isi Daya,Standar,68,2500,Giroskop,Tidak Ada,95%
+V550,RoboSweep X200,83,>75%,Karpet,65,2500,LiDAR + vSLAM,Tidak Ada,90%
+V551,RoboSweep X150,75,50-75%,Standar,65,2000,Giroskop,Ada,100%
+V552,RoboSweep X200,29,>75%,Maksimal,50,2500,LiDAR + vSLAM,Tidak Ada,65%
+V553,RoboSweep X200,37,25-50%,Maksimal,65,2500,LiDAR + vSLAM,Ada,75%
+V554,RoboSweep X200,70,25-50%,Senyap,68,2500,Giroskop,Ada,100%
+V555,RoboSweep X200,29,50-75%,Standar,65,2000,Giroskop,Ada,10%
+V556,RoboSweep X150,73,<25% - Segera Isi Daya,Karpet,50,2500,Giroskop,Tidak Ada,30%
+V557,RoboSweep X150,72,>75%,Standar,55,2500,Giroskop,Ada,35%
+V558,RoboSweep X150,95,25-50%,Standar,55,2500,Giroskop,Ada,15%
+V559,RoboSweep X150,51,50-75%,Standar,68,2000,Giroskop,Tidak Ada,50%
+V560,RoboSweep X150,99,25-50%,Karpet,50,2000,Giroskop,Ada,65%
+V561,RoboSweep X150,20,50-75%,Maksimal,68,2000,Giroskop,Ada,40%
+V562,RoboSweep X150,79,>75%,Standar,68,2500,LiDAR + vSLAM,Ada,95%
+V563,RoboSweep X200,21,25-50%,Maksimal,68,2500,LiDAR + vSLAM,Ada,60%
+V564,RoboSweep X200,54,>75%,Standar,50,2500,LiDAR + vSLAM,Tidak Ada,15%
+V565,RoboSweep X150,28,50-75%,Karpet,55,2000,LiDAR + vSLAM,Tidak Ada,45%
+V566,RoboSweep X150,83,25-50%,Standar,55,2000,Giroskop,Ada,45%
+V567,RoboSweep X200,93,>75%,Standar,68,2000,LiDAR + vSLAM,Ada,15%
+V568,RoboSweep X200,88,25-50%,Senyap,55,2000,Giroskop,Ada,40%
+V569,RoboSweep X150,68,<25% - Segera Isi Daya,Karpet,55,2500,LiDAR + vSLAM,Tidak Ada,100%
+V570,RoboSweep X200,11,>75%,Maksimal,55,2000,Giroskop,Ada,15%
+V571,RoboSweep X200,89,<25% - Segera Isi Daya,Karpet,68,2500,LiDAR + vSLAM,Ada,100%
+V572,RoboSweep X200,22,>75%,Standar,50,2500,Giroskop,Tidak Ada,70%
+V573,RoboSweep X150,12,25-50%,Karpet,68,2500,Giroskop,Tidak Ada,90%
+V574,RoboSweep X200,90,25-50%,Standar,50,2000,LiDAR + vSLAM,Ada,35%
+V575,RoboSweep X150,21,25-50%,Standar,68,2000,LiDAR + vSLAM,Tidak Ada,45%
+V576,RoboSweep X200,25,>75%,Karpet,55,2000,Giroskop,Ada,30%
+V577,RoboSweep X150,34,>75%,Maksimal,68,2500,LiDAR + vSLAM,Ada,20%
+V578,RoboSweep X150,19,>75%,Standar,65,2500,Giroskop,Ada,45%
+V579,RoboSweep X150,65,<25% - Segera Isi Daya,Standar,65,2500,Giroskop,Tidak Ada,70%
+V580,RoboSweep X150,83,<25% - Segera Isi Daya,Standar,50,2500,LiDAR + vSLAM,Tidak Ada,100%
+V581,RoboSweep X200,62,>75%,Senyap,68,2000,LiDAR + vSLAM,Tidak Ada,75%
+V582,RoboSweep X150,31,>75%,Maksimal,68,2500,LiDAR + vSLAM,Tidak Ada,30%
+V583,RoboSweep X200,78,50-75%,Karpet,68,2500,LiDAR + vSLAM,Tidak Ada,100%
+V584,RoboSweep X200,93,<25% - Segera Isi Daya,Maksimal,68,2000,LiDAR + vSLAM,Ada,55%
+V585,RoboSweep X150,98,<25% - Segera Isi Daya,Senyap,55,2000,Giroskop,Tidak Ada,10%
+V586,RoboSweep X150,63,<25% - Segera Isi Daya,Senyap,50,2500,Giroskop,Tidak Ada,45%
+V587,RoboSweep X200,40,>75%,Karpet,65,2000,LiDAR + vSLAM,Ada,80%
+V588,RoboSweep X150,90,50-75%,Maksimal,50,2500,LiDAR + vSLAM,Tidak Ada,85%
+V589,RoboSweep X200,24,50-75%,Standar,65,2000,Giroskop,Ada,70%
+V590,RoboSweep X150,17,50-75%,Maksimal,65,2500,LiDAR + vSLAM,Ada,95%
+V591,RoboSweep X200,40,>75%,Karpet,65,2000,Giroskop,Ada,100%
+V592,RoboSweep X200,45,<25% - Segera Isi Daya,Karpet,68,2000,LiDAR + vSLAM,Tidak Ada,45%
+V593,RoboSweep X200,35,25-50%,Maksimal,55,2500,LiDAR + vSLAM,Ada,50%
+V594,RoboSweep X200,66,25-50%,Standar,50,2500,Giroskop,Tidak Ada,80%
+V595,RoboSweep X150,18,50-75%,Karpet,55,2500,Giroskop,Ada,70%
+V596,RoboSweep X200,68,<25% - Segera Isi Daya,Senyap,65,2500,Giroskop,Ada,10%
+V597,RoboSweep X200,54,>75%,Standar,68,2500,LiDAR + vSLAM,Tidak Ada,40%
+V598,RoboSweep X200,22,50-75%,Senyap,50,2500,Giroskop,Tidak Ada,55%
+V599,RoboSweep X150,29,<25% - Segera Isi Daya,Senyap,55,2000,Giroskop,Tidak Ada,20%
+V600,RoboSweep X150,32,<25% - Segera Isi Daya,Senyap,65,2500,LiDAR + vSLAM,Tidak Ada,70%
+V601,RoboSweep X200,53,25-50%,Standar,65,2500,Giroskop,Tidak Ada,95%
+V602,RoboSweep X150,57,>75%,Maksimal,68,2500,LiDAR + vSLAM,Ada,55%
+V603,RoboSweep X150,91,50-75%,Senyap,50,2500,Giroskop,Tidak Ada,100%
+V604,RoboSweep X150,12,50-75%,Standar,65,2500,Giroskop,Ada,50%
+V605,RoboSweep X150,20,>75%,Karpet,65,2500,LiDAR + vSLAM,Ada,75%
+V606,RoboSweep X200,61,>75%,Karpet,68,2500,LiDAR + vSLAM,Tidak Ada,70%
+V607,RoboSweep X200,91,>75%,Senyap,50,2000,Giroskop,Ada,70%
+V608,RoboSweep X200,35,25-50%,Standar,68,2500,Giroskop,Tidak Ada,35%
+V609,RoboSweep X200,65,25-50%,Karpet,68,2500,LiDAR + vSLAM,Tidak Ada,30%
+V610,RoboSweep X200,42,<25% - Segera Isi Daya,Standar,65,2500,LiDAR + vSLAM,Ada,90%
+V611,RoboSweep X200,43,25-50%,Maksimal,65,2500,LiDAR + vSLAM,Ada,70%
+V612,RoboSweep X200,47,25-50%,Karpet,68,2000,LiDAR + vSLAM,Tidak Ada,55%
+V613,RoboSweep X200,34,>75%,Maksimal,50,2500,Giroskop,Ada,100%
+V614,RoboSweep X150,67,25-50%,Karpet,50,2500,Giroskop,Tidak Ada,65%
+V615,RoboSweep X200,100,<25% - Segera Isi Daya,Karpet,68,2500,LiDAR + vSLAM,Ada,75%
+V616,RoboSweep X200,50,<25% - Segera Isi Daya,Standar,65,2000,LiDAR + vSLAM,Ada,40%
+V617,RoboSweep X200,88,50-75%,Maksimal,65,2500,LiDAR + vSLAM,Tidak Ada,30%
+V618,RoboSweep X150,14,25-50%,Karpet,68,2500,Giroskop,Tidak Ada,70%
+V619,RoboSweep X150,52,>75%,Standar,68,2000,Giroskop,Tidak Ada,20%
+V620,RoboSweep X150,49,>75%,Standar,65,2500,LiDAR + vSLAM,Tidak Ada,65%
+V621,RoboSweep X200,65,50-75%,Senyap,68,2500,LiDAR + vSLAM,Tidak Ada,65%
+V622,RoboSweep X200,84,50-75%,Maksimal,65,2500,LiDAR + vSLAM,Ada,75%
+V623,RoboSweep X200,84,>75%,Karpet,55,2500,LiDAR + vSLAM,Tidak Ada,60%
+V624,RoboSweep X200,26,<25% - Segera Isi Daya,Karpet,55,2000,Giroskop,Tidak Ada,15%
+V625,RoboSweep X150,30,25-50%,Karpet,50,2000,LiDAR + vSLAM,Ada,20%
+V626,RoboSweep X150,10,>75%,Senyap,65,2500,LiDAR + vSLAM,Tidak Ada,50%
+V627,RoboSweep X200,14,25-50%,Karpet,55,2500,LiDAR + vSLAM,Tidak Ada,35%
+V628,RoboSweep X150,72,50-75%,Maksimal,55,2500,Giroskop,Tidak Ada,55%
+V629,RoboSweep X150,59,<25% - Segera Isi Daya,Karpet,55,2000,Giroskop,Tidak Ada,40%
+V630,RoboSweep X200,85,50-75%,Karpet,65,2000,Giroskop,Tidak Ada,30%
+V631,RoboSweep X200,34,<25% - Segera Isi Daya,Karpet,68,2500,LiDAR + vSLAM,Tidak Ada,90%
+V632,RoboSweep X150,69,>75%,Karpet,50,2000,Giroskop,Ada,30%
+V633,RoboSweep X150,46,25-50%,Senyap,68,2000,Giroskop,Tidak Ada,65%
+V634,RoboSweep X150,57,>75%,Maksimal,65,2500,Giroskop,Tidak Ada,10%
+V635,RoboSweep X200,40,50-75%,Standar,50,2500,LiDAR + vSLAM,Tidak Ada,45%
+V636,RoboSweep X150,65,50-75%,Karpet,50,2000,Giroskop,Ada,95%
+V637,RoboSweep X200,24,>75%,Standar,55,2000,LiDAR + vSLAM,Ada,45%
+V638,RoboSweep X150,44,>75%,Standar,68,2500,LiDAR + vSLAM,Ada,75%
+V639,RoboSweep X150,68,>75%,Karpet,68,2000,Giroskop,Ada,80%
+V640,RoboSweep X150,66,50-75%,Maksimal,50,2000,Giroskop,Ada,30%
+V641,RoboSweep X200,94,>75%,Senyap,55,2500,Giroskop,Tidak Ada,30%
+V642,RoboSweep X200,65,>75%,Standar,50,2000,Giroskop,Tidak Ada,75%
+V643,RoboSweep X200,59,<25% - Segera Isi Daya,Karpet,50,2000,Giroskop,Ada,45%
+V644,RoboSweep X200,47,50-75%,Standar,68,2000,Giroskop,Tidak Ada,50%
+V645,RoboSweep X150,51,50-75%,Karpet,68,2000,Giroskop,Ada,100%
+V646,RoboSweep X200,46,50-75%,Senyap,55,2000,Giroskop,Tidak Ada,85%
+V647,RoboSweep X200,35,<25% - Segera Isi Daya,Standar,68,2000,Giroskop,Ada,45%
+V648,RoboSweep X200,23,25-50%,Standar,65,2500,Giroskop,Tidak Ada,65%
+V649,RoboSweep X150,15,25-50%,Standar,55,2500,LiDAR + vSLAM,Ada,30%
+V650,RoboSweep X200,83,>75%,Maksimal,50,2000,LiDAR + vSLAM,Tidak Ada,70%
+V651,RoboSweep X200,87,>75%,Senyap,55,2500,Giroskop,Ada,95%
+V652,RoboSweep X200,14,50-75%,Senyap,55,2500,LiDAR + vSLAM,Tidak Ada,80%
+V653,RoboSweep X150,75,>75%,Senyap,65,2500,Giroskop,Ada,15%
+V654,RoboSweep X150,99,>75%,Karpet,68,2500,Giroskop,Ada,55%
+V655,RoboSweep X150,24,25-50%,Senyap,50,2000,Giroskop,Tidak Ada,35%
+V656,RoboSweep X200,44,>75%,Standar,50,2500,LiDAR + vSLAM,Ada,25%
+V657,RoboSweep X150,52,50-75%,Maksimal,65,2500,Giroskop,Tidak Ada,10%
+V658,RoboSweep X150,34,25-50%,Senyap,65,2000,Giroskop,Tidak Ada,60%
+V659,RoboSweep X200,31,50-75%,Karpet,68,2000,Giroskop,Ada,10%
+V660,RoboSweep X150,23,>75%,Standar,68,2000,Giroskop,Ada,80%
+V661,RoboSweep X150,66,50-75%,Maksimal,55,2500,Giroskop,Tidak Ada,80%
+V662,RoboSweep X200,38,50-75%,Senyap,68,2500,LiDAR + vSLAM,Tidak Ada,60%
+V663,RoboSweep X200,60,25-50%,Senyap,55,2000,Giroskop,Tidak Ada,85%
+V664,RoboSweep X200,39,<25% - Segera Isi Daya,Senyap,55,2500,LiDAR + vSLAM,Ada,30%
+V665,RoboSweep X150,52,25-50%,Maksimal,55,2000,Giroskop,Tidak Ada,45%
+V666,RoboSweep X200,40,50-75%,Standar,50,2000,Giroskop,Tidak Ada,50%
+V667,RoboSweep X150,99,50-75%,Standar,50,2000,LiDAR + vSLAM,Tidak Ada,30%
+V668,RoboSweep X200,96,<25% - Segera Isi Daya,Standar,65,2500,LiDAR + vSLAM,Ada,45%
+V669,RoboSweep X200,18,25-50%,Maksimal,65,2500,LiDAR + vSLAM,Tidak Ada,100%
+V670,RoboSweep X150,34,<25% - Segera Isi Daya,Senyap,50,2500,LiDAR + vSLAM,Ada,100%
+V671,RoboSweep X200,97,25-50%,Karpet,55,2500,LiDAR + vSLAM,Ada,90%
+V672,RoboSweep X150,24,25-50%,Maksimal,68,2500,Giroskop,Ada,40%
+V673,RoboSweep X150,12,50-75%,Karpet,68,2000,Giroskop,Tidak Ada,40%
+V674,RoboSweep X150,91,50-75%,Standar,50,2000,Giroskop,Tidak Ada,80%
+V675,RoboSweep X200,80,>75%,Standar,68,2500,LiDAR + vSLAM,Ada,20%
+V676,RoboSweep X200,23,<25% - Segera Isi Daya,Maksimal,50,2500,LiDAR + vSLAM,Tidak Ada,55%
+V677,RoboSweep X150,37,>75%,Karpet,50,2500,LiDAR + vSLAM,Ada,25%
+V678,RoboSweep X200,16,50-75%,Standar,68,2000,Giroskop,Tidak Ada,90%
+V679,RoboSweep X200,48,25-50%,Senyap,50,2500,Giroskop,Tidak Ada,75%
+V680,RoboSweep X200,41,>75%,Maksimal,50,2500,LiDAR + vSLAM,Tidak Ada,20%
+V681,RoboSweep X150,42,<25% - Segera Isi Daya,Karpet,68,2000,LiDAR + vSLAM,Ada,100%
+V682,RoboSweep X150,17,50-75%,Senyap,65,2500,Giroskop,Ada,50%
+V683,RoboSweep X150,74,>75%,Standar,65,2500,Giroskop,Ada,45%
+V684,RoboSweep X200,87,<25% - Segera Isi Daya,Maksimal,65,2500,Giroskop,Ada,60%
+V685,RoboSweep X200,38,50-75%,Senyap,50,2000,Giroskop,Ada,15%
+V686,RoboSweep X150,56,25-50%,Maksimal,65,2500,Giroskop,Ada,35%
+V687,RoboSweep X150,10,<25% - Segera Isi Daya,Maksimal,50,2500,LiDAR + vSLAM,Ada,95%
+V688,RoboSweep X150,64,>75%,Karpet,65,2000,LiDAR + vSLAM,Ada,70%
+V689,RoboSweep X200,95,>75%,Senyap,55,2500,LiDAR + vSLAM,Ada,45%
+V690,RoboSweep X200,75,50-75%,Standar,50,2000,LiDAR + vSLAM,Tidak Ada,55%
+V691,RoboSweep X150,36,<25% - Segera Isi Daya,Karpet,55,2500,Giroskop,Tidak Ada,85%
+V692,RoboSweep X150,52,>75%,Karpet,50,2500,Giroskop,Tidak Ada,45%
+V693,RoboSweep X200,12,50-75%,Karpet,68,2500,Giroskop,Tidak Ada,30%
+V694,RoboSweep X200,18,50-75%,Maksimal,65,2500,Giroskop,Tidak Ada,85%
+V695,RoboSweep X200,76,>75%,Standar,50,2000,LiDAR + vSLAM,Ada,35%
+V696,RoboSweep X150,18,50-75%,Maksimal,68,2000,Giroskop,Tidak Ada,55%
+V697,RoboSweep X200,73,50-75%,Senyap,65,2500,LiDAR + vSLAM,Ada,90%
+V698,RoboSweep X200,18,50-75%,Standar,65,2500,LiDAR + vSLAM,Tidak Ada,30%
+V699,RoboSweep X150,59,25-50%,Standar,65,2500,Giroskop,Tidak Ada,40%
+V700,RoboSweep X200,87,25-50%,Maksimal,55,2500,LiDAR + vSLAM,Ada,55%
+V701,RoboSweep X200,46,<25% - Segera Isi Daya,Maksimal,55,2000,LiDAR + vSLAM,Tidak Ada,95%
+V702,RoboSweep X150,77,>75%,Maksimal,55,2500,LiDAR + vSLAM,Tidak Ada,45%
+V703,RoboSweep X200,31,50-75%,Standar,68,2500,LiDAR + vSLAM,Ada,90%
+V704,RoboSweep X200,23,25-50%,Maksimal,50,2000,Giroskop,Ada,55%
+V705,RoboSweep X150,47,>75%,Senyap,65,2000,Giroskop,Ada,50%
+V706,RoboSweep X200,41,50-75%,Senyap,55,2500,LiDAR + vSLAM,Ada,100%
+V707,RoboSweep X200,82,50-75%,Senyap,50,2000,Giroskop,Tidak Ada,60%
+V708,RoboSweep X150,54,25-50%,Standar,68,2000,LiDAR + vSLAM,Tidak Ada,95%
+V709,RoboSweep X150,36,50-75%,Maksimal,65,2500,Giroskop,Ada,65%
+V710,RoboSweep X200,73,>75%,Karpet,50,2000,LiDAR + vSLAM,Tidak Ada,45%
+V711,RoboSweep X200,17,25-50%,Karpet,65,2500,LiDAR + vSLAM,Ada,95%
+V712,RoboSweep X150,66,25-50%,Karpet,68,2000,Giroskop,Tidak Ada,40%
+V713,RoboSweep X200,81,>75%,Senyap,50,2500,LiDAR + vSLAM,Ada,75%
+V714,RoboSweep X200,72,>75%,Maksimal,68,2500,LiDAR + vSLAM,Ada,80%
+V715,RoboSweep X150,70,50-75%,Senyap,65,2500,LiDAR + vSLAM,Tidak Ada,45%
+V716,RoboSweep X150,65,50-75%,Senyap,55,2500,LiDAR + vSLAM,Ada,60%
+V717,RoboSweep X200,41,50-75%,Standar,65,2000,LiDAR + vSLAM,Ada,45%
+V718,RoboSweep X150,30,<25% - Segera Isi Daya,Standar,65,2000,LiDAR + vSLAM,Tidak Ada,85%
+V719,RoboSweep X150,62,25-50%,Senyap,50,2000,LiDAR + vSLAM,Tidak Ada,75%
+V720,RoboSweep X150,79,25-50%,Maksimal,50,2000,LiDAR + vSLAM,Ada,90%
+V721,RoboSweep X200,72,25-50%,Karpet,68,2000,Giroskop,Tidak Ada,80%
+V722,RoboSweep X200,38,25-50%,Maksimal,50,2500,Giroskop,Tidak Ada,15%
+V723,RoboSweep X150,69,>75%,Maksimal,65,2000,LiDAR + vSLAM,Tidak Ada,50%
+V724,RoboSweep X150,84,50-75%,Maksimal,65,2000,LiDAR + vSLAM,Ada,45%
+V725,RoboSweep X200,73,<25% - Segera Isi Daya,Karpet,68,2500,LiDAR + vSLAM,Tidak Ada,15%
+V726,RoboSweep X200,16,25-50%,Karpet,50,2500,LiDAR + vSLAM,Tidak Ada,100%
+V727,RoboSweep X200,42,50-75%,Senyap,68,2000,Giroskop,Tidak Ada,20%
+V728,RoboSweep X200,44,25-50%,Karpet,68,2000,LiDAR + vSLAM,Ada,85%
+V729,RoboSweep X150,69,>75%,Senyap,68,2500,Giroskop,Tidak Ada,20%
+V730,RoboSweep X200,71,25-50%,Karpet,68,2000,Giroskop,Ada,20%
+V731,RoboSweep X150,85,>75%,Senyap,65,2000,LiDAR + vSLAM,Tidak Ada,15%
+V732,RoboSweep X200,83,50-75%,Senyap,55,2000,Giroskop,Tidak Ada,70%
+V733,RoboSweep X150,13,>75%,Karpet,65,2000,LiDAR + vSLAM,Ada,80%
+V734,RoboSweep X200,13,50-75%,Maksimal,55,2000,LiDAR + vSLAM,Tidak Ada,95%
+V735,RoboSweep X150,72,<25% - Segera Isi Daya,Senyap,65,2000,Giroskop,Tidak Ada,70%
+V736,RoboSweep X200,62,50-75%,Maksimal,55,2000,Giroskop,Ada,75%
+V737,RoboSweep X150,56,<25% - Segera Isi Daya,Maksimal,55,2000,Giroskop,Ada,65%
+V738,RoboSweep X150,22,50-75%,Karpet,50,2000,LiDAR + vSLAM,Tidak Ada,15%
+V739,RoboSweep X150,11,50-75%,Standar,65,2500,Giroskop,Ada,75%
+V740,RoboSweep X200,14,25-50%,Karpet,50,2000,Giroskop,Ada,65%
+V741,RoboSweep X150,92,50-75%,Karpet,65,2000,LiDAR + vSLAM,Ada,40%
+V742,RoboSweep X200,35,25-50%,Senyap,68,2500,Giroskop,Tidak Ada,65%
+V743,RoboSweep X150,76,<25% - Segera Isi Daya,Maksimal,50,2500,Giroskop,Ada,100%
+V744,RoboSweep X200,94,50-75%,Maksimal,55,2500,Giroskop,Ada,35%
+V745,RoboSweep X200,70,<25% - Segera Isi Daya,Maksimal,55,2000,LiDAR + vSLAM,Ada,10%
+V746,RoboSweep X150,99,>75%,Standar,65,2500,Giroskop,Ada,25%
+V747,RoboSweep X150,81,50-75%,Karpet,65,2000,Giroskop,Tidak Ada,85%
+V748,RoboSweep X150,74,25-50%,Maksimal,68,2000,LiDAR + vSLAM,Tidak Ada,55%
+V749,RoboSweep X200,64,50-75%,Standar,68,2500,LiDAR + vSLAM,Ada,65%
+V750,RoboSweep X200,95,50-75%,Senyap,55,2500,Giroskop,Ada,50%
+V751,RoboSweep X150,82,<25% - Segera Isi Daya,Standar,65,2500,LiDAR + vSLAM,Tidak Ada,55%
+V752,RoboSweep X200,93,25-50%,Senyap,65,2500,LiDAR + vSLAM,Ada,30%
+V753,RoboSweep X150,75,<25% - Segera Isi Daya,Karpet,65,2500,Giroskop,Ada,55%
+V754,RoboSweep X200,54,50-75%,Senyap,55,2500,LiDAR + vSLAM,Ada,90%
+V755,RoboSweep X150,87,50-75%,Senyap,50,2500,LiDAR + vSLAM,Tidak Ada,95%
+V756,RoboSweep X150,24,<25% - Segera Isi Daya,Standar,50,2000,LiDAR + vSLAM,Tidak Ada,55%
+V757,RoboSweep X200,24,25-50%,Standar,68,2500,Giroskop,Tidak Ada,75%
+V758,RoboSweep X150,52,<25% - Segera Isi Daya,Maksimal,55,2000,LiDAR + vSLAM,Tidak Ada,40%
+V759,RoboSweep X150,57,<25% - Segera Isi Daya,Karpet,68,2000,Giroskop,Ada,15%
+V760,RoboSweep X200,26,50-75%,Maksimal,50,2000,Giroskop,Ada,30%
+V761,RoboSweep X150,56,>75%,Senyap,55,2000,LiDAR + vSLAM,Ada,100%
+V762,RoboSweep X150,17,25-50%,Standar,50,2500,Giroskop,Tidak Ada,95%
+V763,RoboSweep X150,85,25-50%,Standar,50,2000,Giroskop,Tidak Ada,95%
+V764,RoboSweep X200,41,25-50%,Senyap,50,2500,Giroskop,Ada,85%
+V765,RoboSweep X150,60,50-75%,Maksimal,50,2000,LiDAR + vSLAM,Tidak Ada,75%
+V766,RoboSweep X150,41,<25% - Segera Isi Daya,Karpet,65,2500,Giroskop,Ada,15%
+V767,RoboSweep X150,14,<25% - Segera Isi Daya,Standar,65,2000,Giroskop,Ada,80%
+V768,RoboSweep X150,44,50-75%,Maksimal,65,2000,LiDAR + vSLAM,Tidak Ada,95%
+V769,RoboSweep X200,44,50-75%,Standar,50,2500,LiDAR + vSLAM,Ada,25%
+V770,RoboSweep X150,48,25-50%,Standar,65,2500,LiDAR + vSLAM,Tidak Ada,80%
+V771,RoboSweep X200,63,25-50%,Standar,68,2000,LiDAR + vSLAM,Tidak Ada,20%
+V772,RoboSweep X200,98,25-50%,Karpet,50,2000,Giroskop,Ada,85%
+V773,RoboSweep X200,48,<25% - Segera Isi Daya,Karpet,65,2000,LiDAR + vSLAM,Tidak Ada,65%
+V774,RoboSweep X200,68,<25% - Segera Isi Daya,Karpet,68,2000,LiDAR + vSLAM,Tidak Ada,90%
+V775,RoboSweep X200,96,>75%,Maksimal,68,2500,LiDAR + vSLAM,Tidak Ada,10%
+V776,RoboSweep X200,68,<25% - Segera Isi Daya,Karpet,68,2000,LiDAR + vSLAM,Tidak Ada,70%
+V777,RoboSweep X200,30,>75%,Senyap,50,2000,Giroskop,Ada,85%
+V778,RoboSweep X200,68,50-75%,Karpet,50,2500,Giroskop,Tidak Ada,75%
+V779,RoboSweep X150,63,<25% - Segera Isi Daya,Karpet,50,2000,Giroskop,Tidak Ada,75%
+V780,RoboSweep X200,76,50-75%,Maksimal,50,2500,Giroskop,Ada,50%
+V781,RoboSweep X200,83,>75%,Standar,55,2500,LiDAR + vSLAM,Tidak Ada,100%
+V782,RoboSweep X150,74,>75%,Maksimal,55,2000,Giroskop,Tidak Ada,15%
+V783,RoboSweep X200,50,<25% - Segera Isi Daya,Maksimal,55,2000,LiDAR + vSLAM,Tidak Ada,75%
+V784,RoboSweep X150,98,50-75%,Maksimal,68,2000,Giroskop,Tidak Ada,95%
+V785,RoboSweep X150,70,25-50%,Maksimal,55,2000,LiDAR + vSLAM,Ada,65%
+V786,RoboSweep X150,78,>75%,Senyap,65,2000,LiDAR + vSLAM,Ada,35%
+V787,RoboSweep X200,30,<25% - Segera Isi Daya,Senyap,55,2000,Giroskop,Tidak Ada,15%
+V788,RoboSweep X200,74,25-50%,Maksimal,68,2000,Giroskop,Ada,65%
+V789,RoboSweep X150,74,<25% - Segera Isi Daya,Karpet,68,2500,Giroskop,Ada,80%
+V790,RoboSweep X200,60,50-75%,Standar,55,2000,LiDAR + vSLAM,Ada,100%
+V791,RoboSweep X150,32,>75%,Standar,55,2000,Giroskop,Tidak Ada,10%
+V792,RoboSweep X200,85,50-75%,Karpet,65,2000,Giroskop,Ada,35%
+V793,RoboSweep X150,12,<25% - Segera Isi Daya,Karpet,68,2500,LiDAR + vSLAM,Tidak Ada,45%
+V794,RoboSweep X200,43,>75%,Standar,68,2500,Giroskop,Tidak Ada,45%
+V795,RoboSweep X150,32,>75%,Maksimal,68,2500,Giroskop,Ada,20%
+V796,RoboSweep X200,93,<25% - Segera Isi Daya,Senyap,68,2500,LiDAR + vSLAM,Ada,70%
+V797,RoboSweep X200,87,>75%,Maksimal,55,2500,Giroskop,Ada,40%
+V798,RoboSweep X150,63,>75%,Karpet,68,2500,LiDAR + vSLAM,Ada,25%
+V799,RoboSweep X200,70,>75%,Maksimal,68,2500,LiDAR + vSLAM,Ada,45%
+V800,RoboSweep X150,85,25-50%,Maksimal,68,2500,LiDAR + vSLAM,Tidak Ada,75%
+V801,RoboSweep X150,56,50-75%,Maksimal,65,2000,LiDAR + vSLAM,Ada,95%
+V802,RoboSweep X150,78,50-75%,Senyap,55,2500,LiDAR + vSLAM,Tidak Ada,95%
+V803,RoboSweep X150,69,50-75%,Maksimal,65,2000,Giroskop,Tidak Ada,65%
+V804,RoboSweep X150,94,50-75%,Senyap,68,2500,Giroskop,Tidak Ada,50%
+V805,RoboSweep X150,36,25-50%,Senyap,65,2500,LiDAR + vSLAM,Tidak Ada,65%
+V806,RoboSweep X150,95,<25% - Segera Isi Daya,Standar,55,2000,Giroskop,Ada,10%
+V807,RoboSweep X150,62,<25% - Segera Isi Daya,Maksimal,55,2500,LiDAR + vSLAM,Ada,65%
+V808,RoboSweep X150,82,25-50%,Karpet,68,2000,LiDAR + vSLAM,Ada,10%
+V809,RoboSweep X200,15,>75%,Maksimal,55,2500,LiDAR + vSLAM,Tidak Ada,75%
+V810,RoboSweep X150,33,<25% - Segera Isi Daya,Maksimal,65,2500,Giroskop,Tidak Ada,90%
+V811,RoboSweep X200,28,25-50%,Standar,55,2000,Giroskop,Tidak Ada,70%
+V812,RoboSweep X150,77,<25% - Segera Isi Daya,Karpet,50,2500,Giroskop,Ada,95%
+V813,RoboSweep X200,32,>75%,Maksimal,50,2000,Giroskop,Tidak Ada,95%
+V814,RoboSweep X150,55,50-75%,Senyap,65,2000,Giroskop,Ada,55%
+V815,RoboSweep X150,34,25-50%,Senyap,65,2000,Giroskop,Ada,60%
+V816,RoboSweep X200,75,>75%,Senyap,55,2000,Giroskop,Ada,10%
+V817,RoboSweep X150,61,25-50%,Maksimal,50,2000,LiDAR + vSLAM,Ada,35%
+V818,RoboSweep X150,61,50-75%,Standar,68,2000,Giroskop,Tidak Ada,55%
+V819,RoboSweep X150,93,<25% - Segera Isi Daya,Standar,50,2500,Giroskop,Ada,95%
+V820,RoboSweep X150,59,<25% - Segera Isi Daya,Standar,55,2500,LiDAR + vSLAM,Ada,45%
+V821,RoboSweep X200,44,<25% - Segera Isi Daya,Senyap,65,2000,Giroskop,Ada,35%
+V822,RoboSweep X150,77,>75%,Senyap,55,2500,LiDAR + vSLAM,Tidak Ada,30%
+V823,RoboSweep X150,63,25-50%,Standar,55,2000,LiDAR + vSLAM,Tidak Ada,90%
+V824,RoboSweep X200,18,<25% - Segera Isi Daya,Maksimal,65,2000,Giroskop,Tidak Ada,10%
+V825,RoboSweep X150,24,>75%,Maksimal,50,2000,LiDAR + vSLAM,Tidak Ada,15%
+V826,RoboSweep X200,67,25-50%,Maksimal,65,2000,Giroskop,Tidak Ada,70%
+V827,RoboSweep X150,93,<25% - Segera Isi Daya,Senyap,50,2500,Giroskop,Ada,60%
+V828,RoboSweep X200,88,>75%,Senyap,68,2500,Giroskop,Tidak Ada,60%
+V829,RoboSweep X150,38,>75%,Maksimal,50,2500,LiDAR + vSLAM,Ada,90%
+V830,RoboSweep X150,18,<25% - Segera Isi Daya,Standar,65,2500,LiDAR + vSLAM,Ada,20%
+V831,RoboSweep X200,55,25-50%,Senyap,68,2500,Giroskop,Tidak Ada,10%
+V832,RoboSweep X150,86,25-50%,Standar,50,2500,LiDAR + vSLAM,Tidak Ada,15%
+V833,RoboSweep X150,19,50-75%,Karpet,65,2000,Giroskop,Tidak Ada,40%
+V834,RoboSweep X200,93,50-75%,Maksimal,55,2000,Giroskop,Ada,10%
+V835,RoboSweep X200,21,25-50%,Maksimal,65,2000,Giroskop,Tidak Ada,90%
+V836,RoboSweep X150,23,25-50%,Maksimal,50,2500,Giroskop,Ada,20%
+V837,RoboSweep X150,40,50-75%,Standar,55,2500,LiDAR + vSLAM,Tidak Ada,70%
+V838,RoboSweep X150,72,25-50%,Maksimal,68,2500,LiDAR + vSLAM,Tidak Ada,95%
+V839,RoboSweep X200,73,25-50%,Maksimal,68,2000,LiDAR + vSLAM,Tidak Ada,50%
+V840,RoboSweep X200,54,>75%,Karpet,65,2500,Giroskop,Ada,10%
+V841,RoboSweep X150,90,50-75%,Maksimal,50,2500,LiDAR + vSLAM,Ada,30%
+V842,RoboSweep X200,68,50-75%,Senyap,68,2500,LiDAR + vSLAM,Ada,75%
+V843,RoboSweep X150,98,>75%,Senyap,50,2000,LiDAR + vSLAM,Tidak Ada,70%
+V844,RoboSweep X150,64,50-75%,Karpet,65,2000,LiDAR + vSLAM,Tidak Ada,100%
+V845,RoboSweep X200,14,>75%,Maksimal,50,2500,Giroskop,Ada,75%
+V846,RoboSweep X150,88,>75%,Senyap,55,2500,Giroskop,Ada,95%
+V847,RoboSweep X200,54,<25% - Segera Isi Daya,Standar,50,2500,LiDAR + vSLAM,Ada,90%
+V848,RoboSweep X200,12,50-75%,Standar,50,2000,Giroskop,Tidak Ada,85%
+V849,RoboSweep X150,71,50-75%,Maksimal,68,2500,LiDAR + vSLAM,Ada,50%
+V850,RoboSweep X200,17,50-75%,Standar,68,2500,LiDAR + vSLAM,Tidak Ada,15%
+V851,RoboSweep X150,66,50-75%,Senyap,65,2000,LiDAR + vSLAM,Tidak Ada,80%
+V852,RoboSweep X200,54,25-50%,Karpet,55,2000,LiDAR + vSLAM,Ada,70%
+V853,RoboSweep X200,54,25-50%,Standar,68,2500,LiDAR + vSLAM,Ada,70%
+V854,RoboSweep X150,55,25-50%,Senyap,50,2500,Giroskop,Tidak Ada,50%
+V855,RoboSweep X150,74,25-50%,Karpet,55,2500,LiDAR + vSLAM,Tidak Ada,50%
+V856,RoboSweep X150,20,25-50%,Senyap,65,2500,LiDAR + vSLAM,Tidak Ada,85%
+V857,RoboSweep X200,72,50-75%,Karpet,55,2500,LiDAR + vSLAM,Ada,30%
+V858,RoboSweep X200,32,25-50%,Maksimal,65,2000,LiDAR + vSLAM,Tidak Ada,35%
+V859,RoboSweep X150,48,>75%,Standar,68,2500,Giroskop,Ada,15%
+V860,RoboSweep X200,78,<25% - Segera Isi Daya,Maksimal,68,2500,LiDAR + vSLAM,Tidak Ada,30%
+V861,RoboSweep X150,36,>75%,Standar,50,2000,LiDAR + vSLAM,Tidak Ada,90%
+V862,RoboSweep X200,16,<25% - Segera Isi Daya,Karpet,55,2000,Giroskop,Tidak Ada,50%
+V863,RoboSweep X150,31,<25% - Segera Isi Daya,Karpet,50,2000,LiDAR + vSLAM,Ada,35%
+V864,RoboSweep X150,88,50-75%,Standar,65,2000,Giroskop,Ada,25%
+V865,RoboSweep X200,79,>75%,Maksimal,50,2500,LiDAR + vSLAM,Tidak Ada,90%
+V866,RoboSweep X150,87,50-75%,Karpet,50,2000,LiDAR + vSLAM,Ada,15%
+V867,RoboSweep X150,24,50-75%,Standar,55,2000,Giroskop,Ada,95%
+V868,RoboSweep X200,95,25-50%,Standar,68,2000,LiDAR + vSLAM,Tidak Ada,20%
+V869,RoboSweep X200,78,<25% - Segera Isi Daya,Karpet,50,2500,LiDAR + vSLAM,Tidak Ada,75%
+V870,RoboSweep X200,65,25-50%,Maksimal,65,2500,LiDAR + vSLAM,Tidak Ada,85%
+V871,RoboSweep X200,91,<25% - Segera Isi Daya,Senyap,55,2000,Giroskop,Ada,60%
+V872,RoboSweep X200,63,25-50%,Maksimal,55,2000,LiDAR + vSLAM,Ada,35%
+V873,RoboSweep X150,93,>75%,Maksimal,55,2000,LiDAR + vSLAM,Ada,45%
+V874,RoboSweep X150,42,<25% - Segera Isi Daya,Standar,65,2000,Giroskop,Tidak Ada,50%
+V875,RoboSweep X200,18,25-50%,Karpet,68,2000,Giroskop,Ada,25%
+V876,RoboSweep X200,77,50-75%,Standar,55,2000,Giroskop,Ada,55%
+V877,RoboSweep X150,75,50-75%,Maksimal,68,2000,Giroskop,Ada,60%
+V878,RoboSweep X200,21,50-75%,Standar,68,2000,Giroskop,Tidak Ada,85%
+V879,RoboSweep X150,46,>75%,Maksimal,68,2500,LiDAR + vSLAM,Ada,35%
+V880,RoboSweep X200,56,>75%,Standar,50,2500,LiDAR + vSLAM,Tidak Ada,95%
+V881,RoboSweep X200,47,>75%,Standar,55,2500,Giroskop,Tidak Ada,40%
+V882,RoboSweep X200,55,25-50%,Standar,68,2000,Giroskop,Tidak Ada,25%
+V883,RoboSweep X200,15,>75%,Karpet,50,2000,Giroskop,Tidak Ada,10%
+V884,RoboSweep X150,61,<25% - Segera Isi Daya,Senyap,68,2000,Giroskop,Ada,95%
+V885,RoboSweep X200,87,<25% - Segera Isi Daya,Maksimal,65,2500,Giroskop,Ada,10%
+V886,RoboSweep X150,56,<25% - Segera Isi Daya,Senyap,65,2000,Giroskop,Ada,60%
+V887,RoboSweep X200,11,>75%,Senyap,68,2000,LiDAR + vSLAM,Tidak Ada,100%
+V888,RoboSweep X200,73,<25% - Segera Isi Daya,Maksimal,50,2500,Giroskop,Ada,10%
+V889,RoboSweep X150,99,25-50%,Karpet,65,2500,Giroskop,Ada,15%
+V890,RoboSweep X150,61,<25% - Segera Isi Daya,Maksimal,68,2000,LiDAR + vSLAM,Ada,80%
+V891,RoboSweep X200,85,25-50%,Karpet,50,2500,LiDAR + vSLAM,Tidak Ada,50%
+V892,RoboSweep X150,23,25-50%,Standar,55,2000,Giroskop,Ada,40%
+V893,RoboSweep X200,83,50-75%,Standar,68,2000,Giroskop,Tidak Ada,75%
+V894,RoboSweep X200,21,50-75%,Maksimal,50,2500,Giroskop,Ada,35%
+V895,RoboSweep X150,51,25-50%,Karpet,50,2500,LiDAR + vSLAM,Ada,25%
+V896,RoboSweep X150,48,50-75%,Senyap,50,2500,Giroskop,Ada,85%
+V897,RoboSweep X200,46,50-75%,Senyap,50,2000,LiDAR + vSLAM,Tidak Ada,40%
+V898,RoboSweep X150,89,25-50%,Karpet,65,2500,LiDAR + vSLAM,Ada,65%
+V899,RoboSweep X200,13,>75%,Karpet,65,2500,Giroskop,Tidak Ada,65%
+V900,RoboSweep X150,54,25-50%,Karpet,68,2500,LiDAR + vSLAM,Tidak Ada,30%
+V901,RoboSweep X200,15,<25% - Segera Isi Daya,Standar,50,2500,Giroskop,Tidak Ada,95%
+V902,RoboSweep X150,29,<25% - Segera Isi Daya,Standar,68,2500,LiDAR + vSLAM,Ada,50%
+V903,RoboSweep X200,56,<25% - Segera Isi Daya,Karpet,50,2000,LiDAR + vSLAM,Tidak Ada,100%
+V904,RoboSweep X200,64,50-75%,Maksimal,68,2500,LiDAR + vSLAM,Ada,95%
+V905,RoboSweep X150,63,50-75%,Maksimal,50,2500,LiDAR + vSLAM,Tidak Ada,100%
+V906,RoboSweep X150,91,<25% - Segera Isi Daya,Karpet,50,2000,LiDAR + vSLAM,Ada,90%
+V907,RoboSweep X150,74,<25% - Segera Isi Daya,Karpet,65,2000,LiDAR + vSLAM,Ada,75%
+V908,RoboSweep X150,79,<25% - Segera Isi Daya,Karpet,65,2500,Giroskop,Ada,20%
+V909,RoboSweep X150,12,>75%,Standar,55,2000,Giroskop,Ada,30%
+V910,RoboSweep X200,66,<25% - Segera Isi Daya,Senyap,50,2000,LiDAR + vSLAM,Ada,10%
+V911,RoboSweep X150,82,>75%,Senyap,65,2000,Giroskop,Tidak Ada,90%
+V912,RoboSweep X150,23,25-50%,Senyap,50,2000,Giroskop,Ada,75%
+V913,RoboSweep X150,78,<25% - Segera Isi Daya,Senyap,68,2500,Giroskop,Ada,85%
+V914,RoboSweep X200,57,<25% - Segera Isi Daya,Maksimal,68,2000,LiDAR + vSLAM,Ada,85%
+V915,RoboSweep X200,48,25-50%,Maksimal,65,2000,LiDAR + vSLAM,Ada,95%
+V916,RoboSweep X150,33,50-75%,Karpet,68,2500,Giroskop,Tidak Ada,90%
+V917,RoboSweep X150,74,50-75%,Karpet,65,2000,Giroskop,Ada,15%
+V918,RoboSweep X200,15,50-75%,Maksimal,50,2000,LiDAR + vSLAM,Ada,65%
+V919,RoboSweep X200,13,50-75%,Karpet,50,2500,LiDAR + vSLAM,Tidak Ada,35%
+V920,RoboSweep X150,96,25-50%,Karpet,68,2500,LiDAR + vSLAM,Tidak Ada,95%
+V921,RoboSweep X150,28,>75%,Maksimal,55,2500,Giroskop,Ada,95%
+V922,RoboSweep X200,79,<25% - Segera Isi Daya,Maksimal,55,2000,Giroskop,Ada,40%
+V923,RoboSweep X200,96,<25% - Segera Isi Daya,Maksimal,68,2500,LiDAR + vSLAM,Ada,80%
+V924,RoboSweep X200,94,25-50%,Standar,55,2000,LiDAR + vSLAM,Tidak Ada,85%
+V925,RoboSweep X150,40,50-75%,Maksimal,68,2500,Giroskop,Tidak Ada,10%
+V926,RoboSweep X150,63,<25% - Segera Isi Daya,Maksimal,55,2000,Giroskop,Ada,55%
+V927,RoboSweep X150,39,<25% - Segera Isi Daya,Maksimal,68,2500,LiDAR + vSLAM,Ada,50%
+V928,RoboSweep X200,63,<25% - Segera Isi Daya,Karpet,68,2500,LiDAR + vSLAM,Tidak Ada,15%
+V929,RoboSweep X200,74,25-50%,Karpet,68,2500,Giroskop,Ada,25%
+V930,RoboSweep X150,28,25-50%,Karpet,55,2000,Giroskop,Ada,65%
+V931,RoboSweep X150,59,>75%,Senyap,65,2500,Giroskop,Ada,70%
+V932,RoboSweep X150,19,>75%,Standar,68,2000,Giroskop,Tidak Ada,50%
+V933,RoboSweep X200,92,<25% - Segera Isi Daya,Karpet,68,2000,LiDAR + vSLAM,Tidak Ada,65%
+V934,RoboSweep X200,18,25-50%,Maksimal,50,2500,Giroskop,Tidak Ada,25%
+V935,RoboSweep X150,40,25-50%,Senyap,50,2500,LiDAR + vSLAM,Tidak Ada,20%
+V936,RoboSweep X200,26,>75%,Maksimal,50,2500,Giroskop,Ada,65%
+V937,RoboSweep X150,92,>75%,Standar,50,2000,LiDAR + vSLAM,Ada,45%
+V938,RoboSweep X150,36,>75%,Senyap,65,2500,LiDAR + vSLAM,Tidak Ada,70%
+V939,RoboSweep X200,25,25-50%,Standar,50,2000,LiDAR + vSLAM,Tidak Ada,25%
+V940,RoboSweep X150,28,<25% - Segera Isi Daya,Maksimal,68,2500,Giroskop,Ada,50%
+V941,RoboSweep X150,19,50-75%,Standar,65,2500,LiDAR + vSLAM,Tidak Ada,80%
+V942,RoboSweep X200,69,<25% - Segera Isi Daya,Senyap,68,2000,Giroskop,Ada,50%
+V943,RoboSweep X150,25,>75%,Maksimal,65,2000,Giroskop,Ada,30%
+V944,RoboSweep X150,69,<25% - Segera Isi Daya,Standar,65,2000,Giroskop,Tidak Ada,30%
+V945,RoboSweep X150,97,25-50%,Karpet,68,2500,LiDAR + vSLAM,Tidak Ada,65%
+V946,RoboSweep X200,65,50-75%,Standar,65,2000,LiDAR + vSLAM,Ada,95%
+V947,RoboSweep X150,40,<25% - Segera Isi Daya,Maksimal,55,2000,Giroskop,Ada,50%
+V948,RoboSweep X150,84,25-50%,Senyap,68,2000,LiDAR + vSLAM,Tidak Ada,90%
+V949,RoboSweep X150,66,<25% - Segera Isi Daya,Standar,55,2000,Giroskop,Ada,60%
+V950,RoboSweep X200,28,>75%,Standar,50,2000,LiDAR + vSLAM,Ada,60%
+V951,RoboSweep X150,23,25-50%,Karpet,55,2000,LiDAR + vSLAM,Ada,60%
+V952,RoboSweep X150,34,<25% - Segera Isi Daya,Karpet,65,2500,LiDAR + vSLAM,Tidak Ada,10%
+V953,RoboSweep X200,15,25-50%,Karpet,65,2000,Giroskop,Ada,35%
+V954,RoboSweep X150,92,50-75%,Karpet,50,2500,Giroskop,Ada,65%
+V955,RoboSweep X150,88,25-50%,Maksimal,68,2500,LiDAR + vSLAM,Ada,55%
+V956,RoboSweep X200,80,25-50%,Maksimal,55,2500,LiDAR + vSLAM,Tidak Ada,45%
+V957,RoboSweep X200,36,>75%,Senyap,55,2500,Giroskop,Tidak Ada,75%
+V958,RoboSweep X200,44,50-75%,Senyap,68,2000,Giroskop,Ada,70%
+V959,RoboSweep X200,17,50-75%,Senyap,68,2000,LiDAR + vSLAM,Tidak Ada,35%
+V960,RoboSweep X200,70,50-75%,Maksimal,68,2500,Giroskop,Ada,35%
+V961,RoboSweep X200,97,>75%,Karpet,55,2500,Giroskop,Ada,90%
+V962,RoboSweep X200,32,50-75%,Standar,65,2500,LiDAR + vSLAM,Ada,35%
+V963,RoboSweep X150,53,<25% - Segera Isi Daya,Karpet,68,2500,Giroskop,Tidak Ada,55%
+V964,RoboSweep X150,28,<25% - Segera Isi Daya,Maksimal,65,2000,Giroskop,Ada,70%
+V965,RoboSweep X150,59,<25% - Segera Isi Daya,Maksimal,65,2500,Giroskop,Tidak Ada,80%
+V966,RoboSweep X150,11,<25% - Segera Isi Daya,Senyap,68,2000,LiDAR + vSLAM,Tidak Ada,65%
+V967,RoboSweep X200,84,<25% - Segera Isi Daya,Maksimal,68,2500,Giroskop,Ada,30%
+V968,RoboSweep X200,32,25-50%,Maksimal,65,2500,Giroskop,Tidak Ada,15%
+V969,RoboSweep X150,73,<25% - Segera Isi Daya,Standar,50,2500,Giroskop,Ada,50%
+V970,RoboSweep X150,51,>75%,Maksimal,55,2500,Giroskop,Ada,80%
+V971,RoboSweep X150,32,<25% - Segera Isi Daya,Standar,65,2000,Giroskop,Ada,25%
+V972,RoboSweep X150,70,50-75%,Karpet,50,2500,Giroskop,Tidak Ada,85%
+V973,RoboSweep X200,53,50-75%,Standar,68,2000,Giroskop,Tidak Ada,25%
+V974,RoboSweep X150,18,>75%,Maksimal,65,2000,Giroskop,Tidak Ada,90%
+V975,RoboSweep X150,15,50-75%,Maksimal,65,2500,Giroskop,Ada,60%
+V976,RoboSweep X200,52,<25% - Segera Isi Daya,Karpet,55,2500,LiDAR + vSLAM,Ada,10%
+V977,RoboSweep X150,74,>75%,Maksimal,65,2500,LiDAR + vSLAM,Tidak Ada,50%
+V978,RoboSweep X150,76,<25% - Segera Isi Daya,Standar,65,2000,Giroskop,Tidak Ada,15%
+V979,RoboSweep X200,82,25-50%,Maksimal,55,2500,Giroskop,Tidak Ada,20%
+V980,RoboSweep X200,27,25-50%,Senyap,55,2500,LiDAR + vSLAM,Tidak Ada,15%
+V981,RoboSweep X150,12,<25% - Segera Isi Daya,Karpet,55,2500,LiDAR + vSLAM,Tidak Ada,50%
+V982,RoboSweep X150,58,>75%,Maksimal,55,2500,LiDAR + vSLAM,Tidak Ada,50%
+V983,RoboSweep X150,94,25-50%,Maksimal,50,2500,Giroskop,Ada,90%
+V984,RoboSweep X150,18,25-50%,Maksimal,68,2000,Giroskop,Ada,15%
+V985,RoboSweep X200,55,25-50%,Maksimal,55,2000,Giroskop,Tidak Ada,15%
+V986,RoboSweep X200,67,>75%,Senyap,65,2000,LiDAR + vSLAM,Tidak Ada,65%
+V987,RoboSweep X150,100,<25% - Segera Isi Daya,Maksimal,50,2500,LiDAR + vSLAM,Tidak Ada,20%
+V988,RoboSweep X150,47,>75%,Maksimal,50,2000,LiDAR + vSLAM,Tidak Ada,65%
+V989,RoboSweep X200,53,<25% - Segera Isi Daya,Standar,68,2500,Giroskop,Tidak Ada,80%
+V990,RoboSweep X200,92,50-75%,Karpet,65,2500,Giroskop,Ada,60%
+V991,RoboSweep X200,72,<25% - Segera Isi Daya,Standar,65,2000,LiDAR + vSLAM,Tidak Ada,50%
+V992,RoboSweep X200,72,>75%,Senyap,55,2500,LiDAR + vSLAM,Tidak Ada,25%
+V993,RoboSweep X150,67,>75%,Karpet,55,2000,LiDAR + vSLAM,Tidak Ada,75%
+V994,RoboSweep X150,54,25-50%,Karpet,50,2500,LiDAR + vSLAM,Ada,75%
+V995,RoboSweep X200,39,>75%,Karpet,50,2000,LiDAR + vSLAM,Ada,80%
+V996,RoboSweep X150,72,50-75%,Karpet,50,2000,Giroskop,Ada,60%
+V997,RoboSweep X200,45,50-75%,Maksimal,65,2500,Giroskop,Tidak Ada,65%
+V998,RoboSweep X200,60,>75%,Senyap,68,2000,Giroskop,Tidak Ada,55%
+V999,RoboSweep X200,28,25-50%,Karpet,50,2500,Giroskop,Tidak Ada,65%
